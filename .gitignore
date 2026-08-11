@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Env / secrets
+.env
+
+# corpus/index/ is intentionally committed: it's small (~1MB for this corpus)
+# and lets a fresh clone run the app instantly without rebuilding embeddings.
+# Rebuild anytime with `python -m src.ingestion`.
+*.sqlite3
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log

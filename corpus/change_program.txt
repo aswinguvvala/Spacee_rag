@@ -1,0 +1,145 @@
+The Chinese Lunar Exploration Program (CLEP; Chinese: 中国探月工程; pinyin: Zhōngguó Tànyuè Gōngchéng), also known as the Chang'e Project (Chinese: 嫦娥工程; pinyin: Cháng'é Gōngchéng) after the Chinese Moon goddess Chang'e, is the first and ongoing series of robotic Moon missions by the China National Space Administration (CNSA), part of the Chinese space program.
+Chang'e 1 (2007) and Chang'e 2 (2010) orbited the Moon, surveying potential landing sites. Chang'e 3 (2013) deployed China's first lander and rover, Yutu. Chang'e 4 (2019) made the world's first landing on the far side of the Moon; its Yutu-2 became the longest-lived lunar rover. Chang'e 5 (2020) provided the world's first lunar sample return since Luna 24 in 1974, also conducting the first robotic lunar orbit docking. Chang'e 6 (2024) retrieved the first ever lunar far side samples.   
+Support missions include Queqiao-1 (2018) and Queqiao-2 (2024), communications satellites in halo and frozen orbits respectively, for coverage of the far side and lunar south pole. Chang'e 5-T1 (2014) tested the reentry capsule and docking technology needed for sample returns. Larger payloads from Chang'e 5 onwards use the heavy lift Long March 5 rocket; the Chang'e 3 and 4 landers used the Long March 3B.  
+China plans Chang'e 7 (late 2026) and Chang'e 8 (2028), which will explore the lunar south pole for ice, using multi-landing flying probes; the latter will test in situ resource utilization. China plans a crewed lunar landing in 2029 or 2030, using the Mengzhou orbiter and Lanyue lander, each launched by a super heavy-lift Long March 10 rocket. China aims to construct the International Lunar Research Station at the lunar south pole from 2031, collaborating with Roscosmos and 11 other countries. The Long March 9 super heavy-lifter is planned for this construction. The program previously saw collaboration with the European Space Agency on deep space telemetry and scientific payloads.  
+
+
+== Engineering program ==
+The program encompasses lunar orbiters, landers, rovers and sample return spacecraft, launched using the Long March series of rockets. A human lunar landing component may have been added to the program, after China publicly announced crewed lunar landing plans by the year 2030 during a conference in July 2023.
+The program's launches and flights are monitored by a telemetry, tracking, and command (TT&C) system, which uses 50-meter (160-foot) radio antennas in Beijing and 40-meter (130-foot) antennas in Kunming, Shanghai, and Ürümqi to form a 3,000-kilometer (1,900-mile) VLBI antenna. A proprietary ground application system is responsible for downlink data reception.
+In 2019, China National Space Administration head Zhang Kejian announced that China is planning to build a scientific research station on the Moon's south pole "within the next 10 years".
+
+
+== Program structure ==
+
+Ouyang Ziyuan, a geologist and chemical cosmologist, is the program's chief scientist. Ye Peijian serves as the program's chief commander and chief designer. Sun Jiadong, an aerospace engineer, is the program's general designer and Sun Zezhou is deputy general designer. The leading program manager is Luan Enjie.
+The Chinese Lunar Exploration Program is divided into four main operational phases, with each mission serving as a technology demonstrator in preparation for future missions. International cooperation in the form of various payloads and a robotic station is invited by China.
+
+
+=== Phase I (robotic): Orbital missions ===
+The first phase entailed the launch of two lunar orbiters, and is now effectively complete.
+
+Chang'e 1 was launched aboard a Long March 3A rocket from Xichang Satellite Launch Center on 24 October 2007, having been delayed from the initial planned date of 17–19 April 2007. It scanned the entire Moon in unprecedented detail, generating a high definition 3D map that would provide a reference for future soft landings. The probe also mapped the abundance and distribution of various chemical elements on the lunar surface as part of an evaluation of potentially useful resources.
+Chang'e 2, launched on 1 October 2010 aboard a Long March 3C rocket, reached the Moon in under 5 days, compared to 12 days for Chang'e 1, and mapped the Moon in even greater detail. It then left lunar orbit and headed for the Earth–Sun L2 Lagrangian point in order to test the TT&C network. Having done that it completed a flyby of asteroid 4179 Toutatis on 13 December 2012, before heading into deep space to further test the TT&C network.
+
+
+=== Phase II (robotic): Soft landers/rovers ===
+
+The second phase is ongoing, and incorporates spacecraft capable of soft-landing on the Moon and deploying lunar rovers.
+
+Chang'e 3, launched on 2 December 2013 aboard a Long March 3B rocket, landed on the Moon on 14 December 2013. It carried with it a 140 kilograms (310 pounds) lunar rover named Yutu, which was designed to explore an area of 3 square kilometers (1.2 square miles) during a 3-month mission. It was also supposed to conduct ultra-violet observations of galaxies, active galactic nuclei, variable stars, binaries, novae, quasars, and blazars, as well as the structure and dynamics of the Earth's plasmasphere.
+Chang'e 4 was launched on 7 December 2018. Originally scheduled for 2015, it was a back-up for Chang'e 3. However, as a result of the success of that mission, the configuration of Chang'e 4 was adjusted for the next mission. It landed on 3 January 2019 on the South Pole-Aitken Basin, on the far side of the Moon, and deployed the Yutu-2 rover.
+
+
+=== Phase III (robotic): Sample-return ===
+The third phase included a lunar sample-return mission.
+
+Chang'e 5-T1 was launched on 23 October 2014. It was designed to test the lunar return spacecraft.
+Chang'e 5 was launched on 23 November 2020, landed near Mons Rümker on the Moon on 1 December 2020, and returned to Earth with 1,731 grams (61.1 oz) of lunar samples back to Earth.
+
+
+=== Phase IV (robotic): Lunar robotic research station ===
+Phase IV is the development of an autonomous lunar research station near the Moon's south pole. The Phase IV program entered active development in 2023 following the successful completion of the previous three phases.
+
+Chang'e 6, launched on 3 May 2024, investigated the topography, composition and subsurface structure of the South Pole–Aitken basin on the far side of the Moon. The mission returned samples to Earth from Apollo Basin on the far side of the Moon. It also carried a Chinese rover called Jinchan to conduct infrared spectroscopy of lunar surface and imaged Chang'e 6 lander on lunar surface.
+Chang'e 7, expected to launch in August 2026, is a mission that will explore the south pole for resources. The mission will include an orbiter, a lander, and a mini-flying probe.
+Chang'e 8, expected to launch in 2028, will verify in-situ resource development and utilization technologies. It may include a lander, a rover, and a flying detector, as well as a 3D-printing experiment using in situ resource utilization (ISRU) to test-build a structure, It will also transport a small sealed ecosystem experiment. It will test technology necessary to the construction of a lunar science base.
+
+
+=== Crewed mission phase ===
+China plans to conduct its first crewed lunar landing in 2029 or 2030. This will use the Mengzhou crewed spacecraft and the Lanyue crewed lunar lander; they will launch separately on two Long March 10 rockets, and conduct lunar orbit rendezvous. China's crewed lunar program is also developing the Wangyu lunar space suit and the Tansuo crewed lunar rover.
+In 2019, China was reviewing preliminary studies for a crewed lunar landing mission in the 2030s, and possibly building an outpost near the lunar south pole with international cooperation.
+On 12 July 2023, at the 9th China (International) Commercial Aerospace Forum in Wuhan, Hubei province, Zhang Hailian, a deputy chief designer with the China Manned Space Agency (CMSA), publicly introduced a preliminary plan to land two astronauts on the Moon by the year 2030 
+On 28 September 2024, in Chongqing, the China Manned Space Agency (CMSA) unveiled the extravehicular lunar spacesuit and also solicited suggestions for a name for the suit.
+
+
+=== 2035 and thereafter: International Moon base and application ===
+
+In 2021, China and Russia announced they will be building a Moon base together, also formally invited more countries and international organizations to join their International Lunar Research Station (ILRS) project being developed by the two nations, as an alternative to the American Artemis Program. China announced on April 24 the International Lunar Research Station Cooperation Organization (ILRSCO) with members including: China, Russia, South Africa, Belarus, Azerbaijan, Venezuela, Pakistan and Egypt.
+
+
+== List of missions ==
+
+
+=== Conducted missions ===
+  Planned hard landing    Planned soft landing
+
+
+=== Upcoming missions ===
+
+
+== Key technologies ==
+
+
+=== Long-range TT&C ===
+
+The biggest challenge in Phase I of the program was the operation of the TT&C system, because its transmission capability needed sufficient range to communicate with the probes in lunar orbit. China's standard satellite telemetry had a range of 80,000 kilometers (50,000 miles), but the distance between the Moon and the Earth can exceed 400,000 kilometers (250,000 miles) when the Moon is at apogee. In addition, the Chang'e probes had to carry out many attitude maneuvers during their flights to the Moon and during operations in lunar orbit. The distance across China from east to west is 5,000 kilometers (3,100 miles), forming another challenge to TT&C continuity. At present, the combination of the TT&C system and the Chinese astronomical observation network has met the needs of the Chang'e program, but only by a small margin.
+
+
+=== Environmental adaptability ===
+The complexity of the space environment encountered during the Chang'e missions imposed strict requirements for environmental adaptability and reliability of the probes and their instruments. The high-radiation environment in Earth-Moon space required hardened electronics to prevent electromagnetic damage to spacecraft instruments. The extreme temperature range, from 130 degrees Celsius (266 degrees Fahrenheit) on the side of the spacecraft facing the Sun to −170 degrees Celsius (−274 degrees Fahrenheit) on the side facing away from the Sun, imposed strict requirements for temperature control in the design of the detectors.
+
+
+=== Orbit design and flight sequence control ===
+Given the conditions of the three-body system of the Earth, Moon and a space probe, the orbit design of lunar orbiters is more complicated than that of Earth-orbiting satellites, which only deal with a two-body system. The Chang'e 1 and Chang'e 2 probes were first sent into highly elliptical Earth orbits. After separating from their launch vehicles, they entered an Earth-Moon transfer orbit through three accelerations in the phase-modulated orbit. These accelerations were conducted 16, 24, and 48 hours into the missions, during which several orbit adjustments and attitude maneuvers were carried out so as to ensure the probes' capture by lunar gravity. After operating in the Earth-Moon orbit for 4–5 days, each probe entered a lunar acquisition orbit. After entering their target orbits, conducting three braking maneuvers and experiencing three different orbit phases, Chang'e 1 and Chang'e 2 carried out their missions.
+
+
+=== Attitude control ===
+Lunar orbiters have to remain properly oriented with respect to the Earth, Moon and Sun. All onboard detectors must be kept facing the lunar surface in order to complete their scientific missions, communication antennas have to face the Earth in order to receive commands and transfer scientific data, and solar panels must be oriented toward the Sun in order to acquire power. During lunar orbit, the Earth, the Moon and the Sun also move, so attitude control is a complex three-vector control process. The Chang'e satellites need to adjust their attitude very carefully to maintain an optimal angle towards all three bodies.
+
+
+=== Hazard avoidance ===
+During the second phase of the program, in which the spacecraft were required to soft-land on the lunar surface, it was necessary to devise a system of automatic hazard avoidance in order that the landers would not attempt to touch down on unsuitable terrain. Chang'e 3 utilized a computer vision system in which the data from a down-facing camera, as well as 2 ranging devices, were processed using specialized software. The software controlled the final stages of descent, adjusting the attitude of the spacecraft and the throttle of its main engine. The spacecraft hovered first at 100 meters (330 feet), then at 30 meters (98 feet), as it searched for a suitable spot to set down. The Yutu rover is also equipped with front-facing stereo cameras and hazard avoidance technology.
+
+
+== International cooperation ==
+Chang'e 1: The first Chinese lunar orbiter, launched in 2007. It carried a European Space Agency (ESA) instrument called D-CIXS, which measured the elemental composition of the lunar surface. It also received tracking and data relay support from ESA's ground stations in Australia and Spain.
+Chang'e 2: The second Chinese lunar orbiter, launched in 2010. It carried a laser altimeter provided by the German Aerospace Center (DLR), which mapped the lunar topography with high precision. It also used ESA's deep space network for communication and navigation during its extended mission to the asteroid 4179 Toutatis.
+Chang'e 3: The first Chinese lunar lander and rover, launched in 2013. It carried a lunar ultraviolet telescope (LUT) developed by the National Astronomical Observatories of China (NAOC) and the International Lunar Observatory Association (ILOA), which performed the first astronomical observations from the lunar surface. It also received data relay support from NASA's Lunar Reconnaissance Orbiter (LRO) for the landing of the Chang'e 3 probe.
+Chang'e-4: The first mission to land and explore the far side of the Moon, with four international scientific payloads from the Netherlands, Germany, Sweden, and Saudi Arabia. It also received support from NASA's LRO team, Russia's radioisotope heat source, China's deep space station in Argentina, and the European Space Agency;s tracking station.
+Chang'e-5: The first mission to return lunar samples since 1976, with international cooperation in telemetry, tracking, and command from the European Space Agency, Argentina, Namibia, Pakistan, and other countries and organizations. It also carried a French magnetic field detector. Scientists from various countries, including Australia, Russia, France, the United States, the United Kingdom, and Sweden, have participated in scientific research involving Chinese lunar samples.
+
+
+=== Cooperation with Russia ===
+In November 2017, China and Russia signed an agreement on cooperative lunar and deep space exploration. The agreement includes six sectors, covering lunar and deep space, joint spacecraft development, space electronics, Earth remote sensing data, and space debris monitoring. Russia may also look to develop closer ties with China in human spaceflight, and even shift its human spaceflight cooperation from the US to China and build a crewed lunar lander.
+
+
+== Gallery ==
+
+
+== Timeline ==
+
+
+=== Phase I to phase IV ===
+
+
+=== Phase IV to International Lunar Research Station ===
+
+
+== See also ==
+
+Exploration of the Moon – Missions to the Moon
+List of missions to the Moon
+Apollo program – 1961–1972 American crewed lunar exploration program
+Artemis program – NASA-led lunar exploration program
+Chandrayaan programme – Indian Lunar exploration programme
+Luna programme – Robotic spacecraft missions to the Moon by the Soviet Union (1958–1976)
+Chinese space program
+Planetary Exploration of China – Chinese Solar System exploration program
+Tianwen-1 – 2020 Interplanetary mission by China to place an orbiter, lander, and rover on Mars
+New Space Race – Renewed 21st-century competition in space exploration
+
+
+== References ==
+
+
+== External links ==
+
+CLEP official website
+Data Release and Information Service System of China's Lunar Exploration Program Archived 10 June 2021 at the Wayback Machine
+"China's Lunar Exploration Program - English". The People's Daily online. Archived from the original on 24 February 2021. Retrieved 21 January 2021.
+Encyclopedia Astronautica
+The Scientific Objectives of Chinese Lunar Exploration Project by Ouyang Ziyuan
+我国发射首颗探月卫星专题
+嫦娥探月专题 Archived 26 January 2021 at the Wayback Machine
+Sūn Huīxiān (孙辉先); Dài Shùwǔ (代树武); Yáng Jiànfēng (杨建峰); Wú Jì (吴季); Jiāng Jǐngshān (姜景山) (2005). "Scientific objectives and payloads of Chang'E-1 lunar satellite" (PDF). Journal of Earth System Science. 114 (6): 789–794. Bibcode:2005JESS..114..789H. doi:10.1007/BF02715964. S2CID 128428662.

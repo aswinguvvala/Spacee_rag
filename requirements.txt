@@ -1,0 +1,20 @@
+# Core ML / retrieval
+sentence-transformers==3.3.1
+transformers==4.46.3
+torch==2.5.1
+faiss-cpu==1.9.0.post1
+rank-bm25==0.2.2
+numpy==1.26.4
+
+# LLM generation (provider-swappable interface; default Anthropic, OpenRouter also supported)
+anthropic==0.39.0
+requests==2.34.2
+python-dotenv==1.0.1
+pydantic==2.10.3
+
+# App
+streamlit==1.40.2
+
+# Testing / tooling
+pytest==8.3.4
+ruff==0.8.4

@@ -1,0 +1,108 @@
+Buran (Russian: Буран, IPA: [bʊˈran], lit. 'blizzard'; GRAU: 11F35 1K, construction number: 1.01, DoD: RAM-R) was the first flight orbiter to be produced as part of the Soviet/Russian Buran programme. The Buran orbiters were similar in design to the U.S. Space Shuttle. Buran completed one uncrewed spaceflight in 1988, and was destroyed in 2002 when the roof of its storage hangar collapsed at Baikonur Cosmodrome. The Buran orbiters used the expendable Energia rocket, a class of super heavy-lift launch vehicle. Besides describing the first operational Soviet/Russian shuttle orbiter, "Buran" was also the designation for the entire Soviet/Russian spaceplane project and its flight articles, which were known as "Buran-class orbiters".
+
+
+== Construction ==
+
+The construction of the Buran spacecraft began in 1980, and by 1984 the first full-scale orbiter was rolled out. Over 1,000 companies all over the Soviet Union were involved in construction and development. The Buran spacecraft was made to be launched on the Soviet Union's super-heavy lift vehicle, Energia. The Buran programme ended in 1993.
+
+
+== Technical description ==
+
+The Buran orbiter was built around the airframe, which was its main structural component, since all other components were attached to it. The components necessary for flight made up about 20% of the weight of the orbiter, while another 11% of weight was added by payload systems and removable parts. The wings of the orbiter contained elevators which could be deflected from +35° to −20°.
+
+
+=== Exterior ===
+
+The lower surface of the Buran orbiter was covered in 38,600 carbon-carbon heat shielding tiles designed to withstand 100 reentries. These tiles were very similar to the ones on the US Space Shuttle. The tiles had an antioxidant molybdenum disilicide coating. The black coating in the tiles helped dissipate heat, and, similarly to the tiles used in the Space Shuttle, the Buran tiles were glued to the orbiter. The sides of the heat tiles facing the orbiter were left uncoated to equalize the material pressure with the surroundings, preventing additional mechanical loads. There were deliberate gaps between tiles to allow for thermal expansion. The gaps were filled with quartz fiber, rope, alkaline elements, inserts and brush seals, and the tiles were also waterproofed.
+The Buran and Space Shuttle orbiters were exposed to similar temperatures, and both had similar levels of insulation. Compared with the Space Shuttle, Buran had a different tile layout on its underside, in which all gaps between heat tiles are parallel or perpendicular to the direction of airflow through the orbiter's lower surface. This layout was designed to reduce heat in between tiles, and in the boundary layer between the tiles and the atmosphere, while helping maintain a laminar airflow around the orbiter.
+
+
+=== Crew module ===
+
+The crew module was an all-metal, welded, pressurised compartment housing the crew's workplaces, control, and life support systems. It had three decks. The flight deck, known as the Command Compartment (KO), was the workspace for the crew and served to accommodate the commander, pilot, engineer and mission specialist's seats, as well as the operator of the Onboard Manipulator System. The middeck or Habitation Compartment (BO), served as the living and sleeping quarters for the crew. It contained lockers, a galley, sleeping bags, and a toilet, in addition to three instrument bays with radio equipment and thermal control systems. Up to six crew members could be seated in the middeck during launch and reentry. The lower deck, known as the Aggregate Compartment (AO) housed the life support system, the power supply systems and parts of the thermal control system. The cockpit was similar in layout to that of the Space Shuttle, with three CRT displays.
+
+
+=== Docking system ===
+
+The docking module (Стыковочный Модуль) designed for Buran would have been mounted into the forward part of the payload bay. It would be a spherical compartment with a diameter of 2.67 m (8.8 ft), with a cylindrical tunnel leading to the androgynous peripheral docking unit (APAS-89). Unlike the Space Shuttle, the docking compartment for Buran would feature an extendable tunnel to increase clearance between orbiter and station. Another hatch, facing into the payload bay, was designed to support extravehicular activities. The docking module was not installed for 1K's only spaceflight, however the Kristall module of the Mir space station was equipped with an APAS-89 docking port for potential visits to the station by future Buran flights and was later used during the Shuttle-Mir programme.
+
+
+=== Remote manipulator ===
+The Onboard Manipulator System (Система Бортовых Манипуляторов), similar to the Space Shuttle's RMS, was developed at the Central Research and Development Institute for Robotics and Technical Cybernetics to support operations with payload. It could be operated both in manual and automatic modes. The orbiter could carry, depending on the mission, one or two manipulator arms. The Onboard Manipulator System was not installed for 1K's orbital flight.
+
+
+=== Laboratory modules ===
+To expand Buran's capabilities, pressurized modules similar to ESA's Spacelab were designed based on the 37K design. These modules had to be both compartments to conduct experiments and logistics volume, and could be mounted either in the payload bay and connected to the crew cabin via tunnel, or be temporarily docked to Mir's Kristall radial docking port. On Buran's maiden flight, the Accessory Unit (Блок Дополнительных Приборов) 37KB No.37070 was installed into the orbiter's payload bay. It carried recording equipment and accumulators providing power to onboard systems as the regular fuel cells based power system were not ready at the time. The second unit, 37KB No.37071 was built in 1987. A third unit 37KB No.37072 was planned, but this never happened because of the cancellation of the programme.
+
+
+=== Propulsion ===
+
+Orbital maneuvering was provided by the Joint Propulsion System (Объединенная Двигательная Установка). The initial design of the orbiter included two Saturn AL-31 jet engines in special nacelles either side of the tailfin, which could be used in the final phase of reentry to modify the approach path. Mock-up nacelles were installed on test articles OK-ML1 and OK-MT and aerodynamic analogue OK-GLI used four such AL-31 engines to perform powered atmospheric flight tests, however a decision was made in late 1987/early 1988 not to use the engines on flight articles. Accordingly, for the first Buran orbital flight the engines were not installed.
+
+
+=== Automatic landing system ===
+The automatic landing system was capable of performing a fully automatic descent, approach and landing from any point located in the "admissible starting conditions area" at 100 kilometres (62 mi) altitude, controlling the orbiter's flight during the descent. The descent profile covered 8,000 kilometres (4,300 nmi) through the atmosphere during the approach and eventually slowed down from 28,000 kilometres per hour (15,000 kn) to zero.
+The first Buran flight was notable for the automatic landing system electing to perform an unlikely (estimated 3% probability) maneuver at the 20 kilometres (66,000 ft) key point, which was needed to extend the glide distance and bleed excessive energy. The standard approach was from the south and consisted of two left turns onto the final approach course. Instead, it performed additional turns in both directions and overflew the field to its northern side, before making a right turn back onto the final course. The landing system elected to perform the maneuver as the orbiter's energy didn't decrease enough due to strong-gusty winds in the area, measured at 15 metres per second (29 kn) and gusting up to 20 metres per second (39 kn) at ground level.
+
+
+== Specifications ==
+
+The dry mass of Buran-class orbiters was quoted 62 tonnes, with a maximum payload of 30 tonnes, for a maximum launch mass of 105 tonnes.
+Mass breakdown
+
+Total mass of structure and landing systems: 42,000 kg (93,000 lb)
+Mass of functional systems and propulsion: 33,000 kg (73,000 lb)
+Maximum payload: 30,000 kg (66,000 lb)
+Maximum liftoff weight: 105,000 kg (231,000 lb)
+Dimensions
+
+Length: 36.37 m (119.3 ft)
+Wingspan: 23.92 m (78.5 ft)
+Height on gear: 16.35 m (53.6 ft)
+Payload bay length: 18.55 m (60.9 ft)
+Payload bay diameter: 4.65 m (15.3 ft)
+Wing chine sweep: 78 degrees
+Wing sweep: 45 degrees
+Propulsion
+
+Total orbital manoeuvring engine thrust: 17,600 kgf (173,000 N; 39,000 lbf)
+Orbital manoeuvring engine specific impulse: 362 seconds (3.55 km/s)
+Total manoeuvring impulse: unknown
+Total RCS thrust: 14,866 kgf (145,790 N; 32,770 lbf)
+Average RCS specific impulse: 275–295 seconds (2.70–2.89 km/s)
+Normal maximum propellant load: 14,500 kg (32,000 lb)
+Unlike the US Space Shuttle, which was propelled by a combination of solid boosters and the orbiter's own liquid-propellant engines fuelled from a large tank, the Energia launch vehicle used thrust from each booster's RD-170 liquid oxygen/kerosene engine (each with four nozzles), developed by NPO Energomash, and another four KBKhA-developed RD-0120 liquid oxygen/liquid hydrogen engines attached to the core stage.
+
+
+== Operational history ==
+
+
+=== Orbital flight ===
+The only orbital launch of a Buran-class orbiter, 1K1 (1К1: first orbiter, first flight) occurred at 03:00:02 UTC on 15 November 1988 from Baikonur Cosmodrome launch pad 110/37. Buran was lifted into space, on an uncrewed mission, by Energia rocket 1L. The automated launch sequence performed as specified, and the Energia lifted the vehicle into a temporary orbit before the orbiter separated as programmed. After boosting itself to a higher orbit and completing two orbits around the Earth, the ODU (Russian: Объединенная Двигательная Установка, romanized: Ob"yedinennaya Dvigatel'naya Ustanovka, lit. 'Combined Propulsion System') engines fired automatically to begin the descent into the atmosphere, return to the launch site, and horizontal landing on a runway.
+After making an automated approach to Site 251, Buran touched down under its own control at 06:24:42 UTC and came to a stop at 06:25:24, 206 minutes after launch. Under a crosswind of 61.2 kilometres per hour (38.0 mph), Buran landed within 3 metres (9.8 ft) laterally and 10 metres (33 ft) longitudinally of the target mark. It was the first spaceplane to perform an uncrewed flight, including landing in fully automatic mode. It was later found that Buran had lost eight of its 38,000 thermal tiles over the course of its flight.
+
+
+=== Projected flights ===
+In 1989, it was projected that Buran would have an uncrewed second flight by 1993, with a duration of 15–20 days. However, the dissolution of the Soviet Union led to funding drying up and the Buran programme was officially cancelled in 1993.
+
+
+== See also ==
+
+List of Buran missions
+OK-GLI – Buran Analog BST-02 test vehicle
+Buran shuttle 1.02 Ptichka
+Buran shuttle 2.01
+Buran shuttle 2.02
+Buran shuttle 2.03
+MAKS (spacecraft) – Soviet air-launched spaceplane concept
+Mikoyan-Gurevich MiG-105 – Soviet spaceplane test programme
+Space Shuttle program – American spaceplane programme
+Tupolev OOS – Soviet air-launched spaceplane concept
+
+
+== References ==
+
+
+== Further reading ==
+Hendrickx, Bart; Vis, Bert (2007). Energiya-Buran: The Soviet Space Shuttle. Springer-Praxis. p. 526. Bibcode:2007ebss.book.....H. ISBN 978-0-387-69848-9.
+Elser, Heinz; Elser-Haft, Margrit; Lukashevich, Vladim (2008). History and Transportation of the Russian Space Shuttle OK-GLI to the Technik Museum Speyer. Technik Museum Speyer. ISBN 978-3-9809437-7-2.

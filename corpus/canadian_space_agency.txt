@@ -1,0 +1,117 @@
+The Canadian Space Agency (CSA; French: Agence spatiale canadienne, ASC) is the national space agency of Canada, established in 1990 by the Canadian Space Agency Act.
+As of 2026, the president of the CSA is Lisa Campbell, who took the position on September 3, 2020. The agency is responsible to the minister of industry. The CSA's headquarters are located at the John H. Chapman Space Centre in Longueuil, Quebec. The agency also has offices in Ottawa, Ontario, and small liaison offices in Houston, Washington, and Paris.
+
+
+== History ==
+The origins of the Canadian upper atmosphere and space program can be traced back to the end of the Second World War. Between 1945 and 1960, Canada undertook a number of small launcher and satellite projects under the aegis of defence research, including the development of the Black Brant rocket as well as series of advanced studies examining both orbital rendezvous and re-entry. In 1957, scientists and engineers at the Canadian Defence Research Telecommunications Establishment (DRTE) under the leadership of John H. Chapman embarked on a project initially known simply as S-27 or the Topside Sounder Project. This work would soon lead to the development of Canada's first satellite known as Alouette 1.
+With the launch of Alouette 1 in September 1962, Canada became the third country to put an artificial satellite into space. At the time, Canada only possessed upper atmospheric launch capabilities (sounding rockets), therefore, Alouette 1 was sent aloft by the American National Aeronautics and Space Administration (NASA) from Vandenberg Air Force Base in Lompoc, California. The technical excellence of the satellite, which lasted for ten years instead of the expected one, prompted the further study of the ionosphere with the joint Canadian-designed, U.S.-launched ISIS satellite program. This undertaking was designated an International Milestone of Electrical Engineering by IEEE in 1993. The launch of Anik A-1 in 1972 made Canada the first country in the world to establish its own domestic geostationary communication satellite network.
+These and other space-related activities in the 1980s compelled the Canadian government to promulgate the Canadian Space Agency Act, which established the Canadian Space Agency. The act received royal assent on May 10, 1990, and came into force on December 14, 1990.
+The mandate of the Canadian Space Agency is to promote the peaceful use and development of space, to advance the knowledge of space through science and to ensure that space science and technology provide social and economic benefits for Canadians. The Canadian Space Agency's mission statement says that the agency is committed to leading the development and application of space knowledge for the benefit of Canadians and humanity.
+In 1999, the CSA was moved from project-based to "A-base" funding and given a fixed annual budget of $300 million. The actual budget varies from year to year due to additional earmarks and special projects. In 2009, Dr. Nicole Buckley was appointed chief scientist of life science.
+
+
+=== Presidents ===
+1989 – May 4, 1992—Larkin Kerwin
+May 4, 1992 – July 15, 1994—Roland Doré
+November 21, 1994 – 2001—William MacDonald Evans
+November 22, 2001 – November 28, 2005—Marc Garneau
+April 12, 2007 – December 31, 2007—Larry J. Boisvert
+January 1, 2008 - September 2, 2008—Guy Bujold
+September 2, 2008 – February 1, 2013—Steven MacLean
+February 2, 2013 – August 5, 2013—Gilles Leclerc (interim)
+August 6, 2013 – November 3, 2014—Walter Natynczyk
+November 3, 2014 - March 9, 2015—Luc Brûlé, Interim
+March 9, 2015 - September 14, 2020—Sylvain Laporte
+September 14, 2020 – present—Lisa Campbell
+
+
+=== Cooperation with the European Space Agency ===
+The CSA has been a cooperating state of the European Space Agency (ESA) since the 1970s and has several formal and informal partnerships and collaborative programs with space agencies in other countries, such as NASA, ISRO, JAXA, and SNSA.
+Canada's collaboration with Europe in space activities predated both the European Space Agency and the Canadian Space Agency. From 1968, Canada held observer status in the European Space Conference (ESC), a ministerial-level organization set up to determine future European space activities, and it continued in this limited role after ESA was created in 1975. Since January 1, 1979, Canada has had the special status of a "Cooperating State" with the ESA, paying for the privilege and also investing in working time and providing scientific instruments that are placed on ESA probes. Canada is allowed to participate in optional programs; it also has to contribute to the General Budget but not as much as associate membership entail. This status was unique at the time and remains so today.
+On 15 December 2010, the accord was renewed for a further 10 years, until 2020. By virtue of this accord, Canada takes part in ESA deliberative bodies and decision-making and in ESA's programmes and activities. Canadian firms can bid for and receive contracts to work on programmes. The accord has a provision specifically ensuring a fair industrial return to Canada. The head of the Canadian delegation to ESA is the president of the Canadian Space Agency. As of February 2009, there are currently 30 Canadians that are employed as staff members at ESA. (Distributed over various ESA sites: 20 at ESTEC; 4 at ESOC; 4 at ESA HQ; 2 at ESRIN).
+
+
+== Canadian space program ==
+ 
+
+The Canadian space program is administered by the Canadian Space Agency. Canada has contributed technology, expertise and personnel to the world space effort, especially in collaboration with ESA and NASA. In addition to its astronauts and satellites, some of the most notable Canadian technological contributions to space exploration include the Canadarm on the Space Shuttle and Canadarm2 on the International Space Station.
+Canada's contribution to the International Space Station is the C$1.3 billion Mobile Servicing System. This consists of Canadarm2 (SSRMS), Dextre (SPDM), mobile base system (MBS) and multiple robotics workstations that together make up the Mobile Servicing System on the ISS. The Canadarm, Canadarm2 and Dextre all employ the Advanced Space Vision System, which allows more efficient use of the robotic arms. Another Canadian technology of note is the Orbiter Boom Sensor System, which was an extension for the original Canadarm used to inspect the Space Shuttle's thermal protection system for damage while in orbit. Before the Space Shuttle's retirement, the boom was modified for use with Canadarm2; STS-134 (the Space Shuttle program's penultimate mission) left it for use on the ISS.
+The Canadian Space Agency also has a Scientific Research programme on the International Space Station.
+
+
+=== CSA astronauts ===
+
+There have been four recruiting campaigns for astronauts for the CSA. The first, in 1983 by the National Research Council, led to the selection of Roberta Bondar, Marc Garneau, Robert Thirsk, Ken Money, Bjarni Tryggvason and Steve MacLean. The second, in 1992, selected Chris Hadfield, Julie Payette, Dafydd Williams and Michael McKay. On May 13, 2009, it was announced after the completion of a third selection process that two new astronauts, Jeremy Hansen and David Saint-Jacques, had been chosen. The latest recruitment campaign was launched in 2016, attracting 3,772 applicants for 2 candidates. In 2017, Joshua Kutryk and Jennifer Sidey were chosen.
+Ten Canadians have participated in 18 crewed missions in total: 14 NASA Space Shuttle missions (including one mission to Mir), 3 Roscosmos Soyuz missions, and one Artemis program mission. Two former Canadian astronauts never flew in space: Michael McKay resigned for medical reasons and Ken Money resigned in 1992, eight years after his selection.
+
+On December 19, 2012, Canadian astronaut Chris Hadfield launched aboard a Soyuz spacecraft to reach the International Space Station. This mission marked the completion of NASA's compensation to Canada for its contribution to the Shuttle and International Space Station programs, meaning that there were no confirmed remaining space flight opportunities for Canadian astronauts. In June 2015, the Canadian government announced a renewed commitment to the International Space Station, securing flights for both of Canada's remaining active astronauts. In May 2016, the CSA announced that David Saint-Jacques would fly to the International Space Station aboard a Roscosmos Soyuz rocket in November 2018 for six months, as part of the Expedition 58/59 crew. The crew of the Artemis II lunar flyby mission included Jeremy Hansen under the terms of a 2020 treaty between the United States and Canada.
+
+
+=== Canadian satellites ===
+
+Additionally, there are commercial satellites launched by the telecommunications company Telesat, a former Crown corporation that was privatized in 1998. These are the Anik satellites, the Nimiq satellites (all currently used by Bell Satellite TV), and MSAT-1. Further, technology and research satellites have been developed by UTIAS-SFL, including the CanX program, ExactView-9, and GHGSat-D.
+
+
+=== International projects ===
+The CSA contributes to many international projects, including satellites, rovers, and space telescopes. The CSA has contributed components to ESA, NASA, ISRO, JAXA, and SNSB projects in the past. Recently, Canada contributed the Fine Guidance Sensor to NASA's James Webb Space Telescope.
+
+Additionally, Canadian universities and aerospace contractors, including the University of Calgary, UTIAS-SFL, COM DEV, MDA, Magellan Aerospace, Telesat and others, have provided components to various international space agencies.
+
+
+=== Facilities ===
+John H. Chapman Space Centre – Longueuil, Quebec
+David Florida Laboratory – Ottawa, Ontario
+Canadian Space Agency Building – Innovation Place Research Park – Saskatoon, Saskatchewan
+A number of launch facilities have been used by the Canadian Space Agency and its predecessors:
+Canada
+
+Churchill Rocket Research Range / SpacePort Canada, Manitoba (DRB / NRC)
+Timmins stratospheric balloon base, used for stratospheric balloon program, STRATOS
+United States
+
+Cape Canaveral Space Force Station, Florida (USSF)
+Kennedy Space Center, Florida (NASA)
+Vandenberg Space Force Base, California (USSF)
+Wallops Flight Facility, Virginia (NASA)
+Other international
+
+Satish Dhawan Space Centre, India (ISRO)
+Baikonur Cosmodrome, Kazakhstan (leased to Roscosmos and Russian Space Forces)
+Dombarovsky Air Base, Russia (Russian Air Force)
+Plesetsk Cosmodrome, Russia (Roscosmos)
+
+
+== Future programs ==
+With the successful launching of Radarsat-2 in December 2007 and completion of Canada's CA$1.4 billion contribution to the International Space Station in early 2008, the CSA found itself with no major follow-on projects. This fact was highlighted by Marc Garneau, Canada's first astronaut and former head of the CSA, who in the fall of 2007 called upon the Canadian government to develop and institute a space policy for Canada.
+A modest step has been taken to resolve this problem. In November 2008, the Agency signed a C$40 million 16-month contract with MacDonald, Dettwiler and Associates of Vancouver (now MDA) to begin the design of the RADARSAT Constellation (3 satellite) earth observation mission. In August 2010, further funding was awarded for detailed design work scheduled for completion by 2012. The satellites were launched on June 12, 2019. Also in the 2009 Federal budget, the agency was awarded funding for the preliminary design of robotic Lunar/Martian rovers.
+On February 28, 2019, Canadian Prime Minister Justin Trudeau announced Canada's commitment to the Lunar Gateway, an international NASA-led project to put a small space station in lunar orbit. The announcement made Canada the first international partner in the Lunar Gateway project. As part of the announcement, Canada has committed to spending C$2.05 billion over 24 years to develop the next generation Canadarm 3. This marks Canada's largest ever single financial commitment to a single project, surpassing the C$1.7 billion spent on projects for the International Space Station.
+As part of the Artemis program, CSA is developing a small lunar rover. The robotic rover is being developed in partnership with NASA. It will explore a polar region of the Moon and be capable of surviving a lunar night. The mission will carry at least two science instruments, one from NASA and one from CSA, and will launch by 2029.
+
+
+=== Rockets ===
+
+The Canadian Space Agency has no indigenous launch capability beyond upper atmospheric sounding rockets. Canada relies on other countries, such as the U.S., India and Russia, to launch its spacecraft into orbit, but both the Defence Department and the space agency are looking at the option of constructing a Canadian-made launcher.
+The CSA announced in 2011 it was researching locations in Cape Breton, Nova Scotia, or the potential reopening of the Churchill Rocket Research Range in Manitoba for a micro satellite (150 kg) launch site to end its reliance on foreign launch providers. Another possible location, CFB Suffield, remains an option. According to Canadian Space Agency officials, it would take 10 to 12 years for a full-scale project to design and build a small satellite launcher. There has been no funding for these activities announced.
+In 2026, the federal government announced a commitment of more than C$200 million to lease a dedicated launch pad for a period of 10 years at Spaceport Nova Scotia, owned and operated by Maritime Launch Services, with the intention of establishing a domestic space capability, with Defence Minister David McGuinty citing the vulnerability of 20% of the Canadian economy being reliant on satellites. While explicitly indicated that the Department of National Defence and Canadian Armed Forces would be the primary users of this facility, it is suspected that the CSA will be involved as well.
+
+
+== Controversy ==
+In March 2022, information from the Canadian Security Intelligence Service (CSIS) indicated that CSA had been infiltrated by Chinese agents. The RCMP charged Wanping Zheng, a 61-year-old employed by CSA, in December 2021 with breach of trust, which the police said was tied to foreign interference. Despite repeated security warnings from CSIS since 2015, Zheng continued to work for CSA and was tied to the installation of unauthorized software, including secure file transfer and a messaging applications, on behalf of a foreign company, according to filed court documents. He was also accused of using his status as a CSA engineer to negotiate agreements for a satellite station installation with Iceland, on behalf of a Chinese aerospace company. Zheng resigned from CSA after 26 years with the agency, although none of the allegations against Zheng have been proven in court.
+
+
+== See also ==
+
+List of government space agencies
+Science and technology in Canada
+International Astronautical Federation
+Timeline of space travel by nationality
+
+
+== References ==
+
+
+== External links ==
+
+Official website 
+Canadian Space Agency's channel on YouTube
+Text of the Canadian Space Agency Act

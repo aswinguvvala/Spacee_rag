@@ -1,0 +1,295 @@
+The Soviet space program (Russian: Космическая программа СССР, romanized: Kosmicheskaya programma SSSR) was the state space program of the Soviet Union, active from 1951 until the dissolution of the Soviet Union in 1991. Unlike its Space Race competitor, the United States, which consolidated its space program under NASA, the Soviet space program was divided between several competing design bureaus led by Korolev, Kerimov, Keldysh, Yangel, Glushko, Chelomey, Makeyev, Chertok and Reshetnev, often under the Ministry of General Machine-Building. The program was an important part of the Soviet claim to superpower status. 
+From the 1890s, Russian scientist Konstantin Tsiolkovsky pioneered the fields of astronautics and rocketry. Soviet rocketry began with the Gas Dynamics Laboratory in 1921, and these endeavors expanded during the 1930s and 1940s. After the surrender of Nazi Germany, German V-2 rocket technology and expertise was utilized by Soviet and by US aerospace alike; Soviet spaceflight began with the derivative R-1 missile tests in 1948. In the 1950s, the Soviet program was formalized, led by Sergei Korolev.
+The Soviet space program set many records in space exploration. In 1957, it achieved the first intercontinental missile (R-7 "Semyorka"), orbital launch vehicle (Sputnik), artificial satellite (Sputnik 1), and animal in Earth orbit (Laika the dog). From 1961, the Vostok and Voskhod programs achieved the first human spaceflight (Yuri Gagarin), woman in space (Valentina Tereshkova), multi-crew spaceflight, and spacewalk. Cancelled Soviet crewed lunar programs centered on the N1 super heavy-lift rocket. The Salyut program (1971–1986) operated six crewed space stations, including the world's first, Salyut 1. The first modular station, Mir (1986–2000), grew to seven pressurized modules. The Interkosmos program sent the first citizens of sixteen countries into space. The Energia super heavy-lift rocket and Buran spaceplane, a response to the US Space Shuttle, were briefly flown in the late 1980s.   
+Soviet computerized robotic missions achieved further milestones. The Luna program launched to the Moon, from 1959–70, the first flyby, impactor, imaging of its far side, soft landing, animals, and robotic sample return; the Lunokhod program deployed the first two robotic lunar rovers from 1970. The Venera and Mars programs launched the first interplanetary probes. Venus missions achieved the first flyby, first impact, first soft landing, first surface imaging, and first atmospheric flight on another planet. Soviet probes also made the first impact and soft landing on Mars.
+The program provided key Soviet military systems during the Cold War, via satellites such as Zenit for reconnaissance, Tselina for signals intelligence, Oko for early warning, and US-A for naval radar. Soviet space industry contested the US in experimental technologies such as electric propulsion, fission-powered spacecraft, nuclear thermal rockets, and space weapons such as the Almaz space stations and Polyus laser. 
+The program was primarily succeeded by Russia's Roscosmos, as well as Ukraine's State Space Agency. The program's legacy includes Roscosmos' segment of the International Space Station, Soyuz and Progress spacecraft, Soyuz and Proton rocket families, and the GLONASS satellite navigation system. Internationally, Soviet designs were adapted to the Chinese Shenzhou crew vehicle and widely-used RD-170 engine variants. The largest Soviet cosmodrome, Baikonur, in Kazakhstan, is now under lease to Russia; Plesetsk continues to launch primarily military satellites into polar orbit.
+
+
+== Origins ==
+
+
+=== Early Russian-Soviet efforts ===
+
+The theory of space exploration had a solid basis in the Russian Empire before the First World War with the writings of the Russian and Soviet rocket scientist Konstantin Tsiolkovsky (1857–1935), who published pioneering papers in the late 19th and early 20th centuries on astronautic theory, including calculating the Rocket equation and in 1929 introduced the concept of the multistaged rocket. Additional astronautic and spaceflight theory was also provided by the Ukrainian and Soviet engineer and mathematician Yuri Kondratyuk who developed the first known lunar orbit rendezvous (LOR), a key concept for landing and return spaceflight from Earth to the Moon. The LOR was later used for the plotting of the first actual human spaceflight to the Moon. Many other aspects of spaceflight and space exploration are covered in his works. Both theoretical and practical aspects of spaceflight were also provided by the Latvian pioneer of rocketry and spaceflight Friedrich Zander, including suggesting in a 1925 paper that a spacecraft traveling between two planets could be accelerated at the beginning of its trajectory and decelerated at the end of its trajectory by using the gravity of the two planets' moons – a method known as gravity assist.
+
+
+==== Gas Dynamics Laboratory (GDL) ====
+
+The first Soviet development of rockets was in 1921, when the Soviet military sanctioned the commencement of a small research laboratory to explore solid fuel rockets, led by Nikolai Tikhomirov, a chemical engineer, and supported by Vladimir Artemyev, a Soviet engineer.  Tikhomirov had commenced studying solid and Liquid-fueled rockets in 1894, and in 1915, he lodged a patent for "self-propelled aerial and water-surface mines." In 1928 the laboratory was renamed the Gas Dynamics Laboratory (GDL). The First test-firing of a solid fuel rocket was carried out in March 1928, which flew for about 1,300 meters  Further developments in the early 1930s were led by Georgy Langemak. and 1932 in-air test firings of RS-82 unguided rockets from a Tupolev I-4 aircraft armed with six launchers successfully took place.
+
+
+==== Sergey Korolev ====
+
+A key contributor to early soviet efforts came from a young Russian aircraft engineer Sergey Korolev, who would later become the de facto head of the Soviet space programme. 
+In 1926, as an advanced student, Korolev was mentored by the famous Soviet aircraft designer Andrey Tupolev, who was a professor at his University. In 1930, while working as a lead engineer on the Tupolev TB-3 heavy bomber he became interested in the possibilities of liquid-fueled rocket engines to propel airplanes. This led to contact with Zander, and sparked his interest in space exploration and rocketry.
+
+
+==== Group for the Study of Reactive Motion (GIRD) ====
+
+Practical aspects built on early experiments carried out by members of the 'Group for the Study of Reactive Motion' (better known by its Russian acronym "GIRD") in the 1930s, where Zander, Korolev and other pioneers such as the Russian engineers Mikhail Tikhonravov, Leonid Dushkin, Vladimir Vetchinkin and Yuriy Pobedonostsev worked together. On August 18, 1933, the Leningrad branch of GIRD, led by Tikhonravov, launched the first hybrid propellant rocket, the GIRD-09, and on November 25, 1933, the Soviet's first liquid-fueled rocket GIRD-X.
+
+
+==== Reactive Scientific Research Institute (RNII) ====
+
+In 1933 GIRD was merged with GDL by the Soviet government to form the Reactive Scientific Research Institute (RNII), which brought together the best of the Soviet rocket talent, including Korolev, Langemak, Ivan Kleymyonov and former GDL engine designer Valentin Glushko. Early success of RNII included the conception in 1936 and first flight in 1941 of the RP-318 the Soviets first rocket-powered aircraft and the RS-82 and RS-132 missiles entered service by 1937, which became the basis for development in 1938 and serial production from 1940 to 1941 of the Katyusha multiple rocket launcher, another advance in the reactive propulsion field. RNII's research and development were very important for later achievements of the Soviet rocket and space programs.
+During the 1930s, Soviet rocket technology was comparable to Germany's, but Joseph Stalin's Great Purge severely damaged its progress. In November 1937, Kleymyonov and Langemak were arrested and later executed, Glushko and many other leading engineers were imprisoned in the Gulag. Korolev was arrested in June 1938 and sent to a forced labour camp in Kolyma in June 1939. However, due to intervention by Tupolev, he was relocated to a prison for scientists and engineers in September 1940.
+
+
+=== World War II ===
+During World War II, rocketry efforts were carried out by three Soviet design bureaus. RNII continued to develop and improve solid fuel rockets, including the RS-82 and RS-132 missiles and the Katyusha rocket launcher, where Pobedonostsev and Tikhonravov continued to work on rocket design. In 1944, RNII was renamed Scientific Research Institute No 1 (NII-I) and combined with design bureau OKB-293, led by Soviet engineer Viktor Bolkhovitinov, which developed, with Aleksei Isaev, Boris Chertok, Leonid Voskresensky and Nikolay Pilyugin a short-range rocket powered interceptor called Bereznyak-Isayev BI-1.
+
+Special Design Bureau for Special Engines (OKB-SD) was led by Glushko and focused on developing auxiliary liquid-fueled rocket engines to assist takeoff and climbing of prop aircraft, including the RD-IKhZ, RD-2 and RD-3. In 1944, the RD-1 kHz auxiliary rocket motor was tested in a fast-climb Lavochkin La-7R for protection of the capital from high-altitude Luftwaffe attacks. In 1942 Korolev was transferred to OKB-SD, where he proposed development of the long range missiles D-1 and D-2.
+The third design bureau was Plant No 51 (OKB-51), led by Soviet Ukrainian Engineer Vladimir Chelomey, where he created the first Soviet pulsating air jet engine in 1942, independently of similar contemporary developments in Nazi Germany.
+
+
+=== German influence ===
+
+Nazi Germany developed rocket technology that was more advanced than the Allies and a race commenced between the Soviet Union and the United States to capture and exploit the technology. Soviet rocket specialist was sent to Germany in 1945 to obtain V-2 rockets and worked with German specialists in Germany and later in the Soviet Union to understand and replicate the rocket technology. The involvement of German scientists and engineers was an essential catalyst to early Soviet efforts. In 1945 and 1946 the use of German expertise was invaluable in reducing the time needed to master the intricacies of the V-2 rocket, establishing production of the R-1 rocket and enable a base for further developments. On 22 October 1946, 302 German rocket scientists and engineers, including 198 from the Zentralwerke (a total of 495 persons including family members), were deported to the Soviet Union as part of Operation Osoaviakhim. However, after 1947 the Soviets made very little use of German specialists and their influence on the future Soviet rocket program was marginal. The Soviets began R-1 test launches in 1948, with an unsuccessful flight in September, followed by successful flights with apogees near 100 km from 10 October, marking the beginning of Soviet spaceflight.
+
+
+== Sputnik and Vostok ==
+
+The Soviet space program was tied to the USSR's Five-Year Plans and from the start was reliant on support from the Soviet military. Although he was "single-mindedly driven by the dream of space travel", Korolev generally kept this a secret while working on military projects—especially, after the Soviet Union's first atomic bomb test in 1949, a missile capable of carrying a nuclear warhead to the United States—as many mocked the idea of launching satellites and crewed spacecraft. Nonetheless, the first Soviet rocket with animals aboard launched in July 1951; the two dogs, Dezik and Tsygan, were recovered alive after reaching 101 km in altitude. Two months ahead of America's first such achievement, this and subsequent flights gave the Soviets valuable experience with space medicine.
+Because of its global range and large payload of approximately five tons, the reliable R-7 was not only effective as a strategic delivery system for nuclear warheads, but also as an excellent basis for a space vehicle. The United States' announcement in July 1955 of its plan to launch a satellite during the International Geophysical Year greatly benefited Korolev in persuading Soviet leader Nikita Khrushchev to support his plans.  In a letter addressed to Khrushchev, Korolev stressed the necessity of launching a "simple satellite" in order to compete with the American space effort. Plans were approved for Earth-orbiting satellites (Sputnik) to gain knowledge of space, and four uncrewed military reconnaissance satellites, Zenit. Further planned developments called for a crewed Earth orbit flight by and an uncrewed lunar mission at an earlier date.
+
+After the first Sputnik proved to be successful, Korolev—then known publicly only as the anonymous "Chief Designer of Rocket-Space Systems"—was charged to accelerate the crewed program, the design of which was combined with the Zenit program to produce the Vostok spacecraft. After Sputnik, Soviet scientists and program leaders envisioned establishing a crewed station to study the effects of zero-gravity and the long term effects on lifeforms in a space environment. Still influenced by Tsiolkovsky—who had chosen Mars as the most important goal for space travel—in the early 1960s, the Soviet program under Korolev created substantial plans for crewed trips to Mars as early as 1968 to 1970. With closed-loop life support systems and electrical rocket engines, and launched from large orbiting space stations, these plans were much more ambitious than America's goal of landing on the Moon.
+In late 1963 and early 1964 the Polyot 1 and Polyot 2 satellites were launched; these were the first satellites capable of adjusting both orbital inclination and Apsis. This marked a significant step in the potential use of spacecraft in Anti-satellite warfare, as it demonstrated the potential for uncrewed satellites to intercept and destroy other satellites. This would have highlighted the potential use of the space program in a conflict with the US.
+
+
+=== Funding and support ===
+
+The Soviet space program was secondary in military funding to the Strategic Rocket Forces' ICBMs. While the West believed that Khrushchev personally ordered each new space mission for propaganda purposes, and the Soviet leader did have an unusually close relationship with Korolev and other chief designers, Khrushchev emphasized missiles rather than space exploration and was not very interested in competing with Apollo.
+While the government and the Communist Party used the program's successes as propaganda tools after they occurred, systematic plans for missions based on political reasons were rare, one exception being Valentina Tereshkova, the first woman in space, on Vostok 6 in 1963. Missions were planned based on rocket availability or ad hoc reasons, rather than scientific purposes. For example, the government in February 1962 abruptly ordered an ambitious mission involving two Vostoks simultaneously in orbit launched "in ten days time" to eclipse John Glenn's Mercury-Atlas 6 that month; the program could not do so until August, with Vostok 3 and Vostok 4.
+
+
+== Internal competition ==
+Unlike the American space program, which had NASA as a single coordinating structure directed by its administrator, James Webb through most of the 1960s, the USSR's program was split between several competing design groups. Despite the successes of the Sputnik Program between 1957 and 1961 and Vostok Program between 1961 and 1964, after 1958 Korolev's OKB-1 design bureau faced increasing competition from his rival chief designers, Mikhail Yangel, Valentin Glushko, and Vladimir Chelomei. Korolev planned to move forward with the Soyuz craft and N-1 heavy booster that would be the basis of a permanent crewed space station and crewed exploration of the Moon. However, Dmitry Ustinov directed him to focus on near-Earth missions using the Voskhod spacecraft, a modified Vostok, as well as on uncrewed missions to nearby planets Venus and Mars.
+Yangel had been Korolev's assistant but with the support of the military, he was given his own design bureau in 1954 to work primarily on the military space program. This had the stronger rocket engine design team including the use of hypergolic fuels but following the Nedelin catastrophe in 1960 Yangel was directed to concentrate on ICBM development. He also continued to develop his own heavy booster designs similar to Korolev's N-1 both for military applications and for cargo flights into space to build future space stations.
+Glushko was the chief rocket engine designer but he had a personal friction with Korolev and refused to develop the large single chamber cryogenic engines that Korolev needed to build heavy boosters.
+Chelomey benefited from the patronage of Khrushchev and in 1960 was given the plum job of developing a rocket to send a crewed vehicle around the Moon and a crewed military space station. With limited space experience, his development was slow.
+The progress of the Apollo program alarmed the chief designers, who each advocated for his own program as the response. Multiple, overlapping designs received approval, and new proposals threatened already approved projects. Due to Korolev's "singular persistence", in August 1964—more than three years after the United States declared its intentions—the Soviet Union finally decided to compete for the Moon. It set the goal of a lunar landing in 1967—the 50th anniversary of the October Revolution—or 1968. At one stage in the early 1960s the Soviet space program was actively developing multiple launchers and spacecraft. With the fall of Krushchev in 1964, Korolev was given complete control of the crewed program.
+In 1961, Valentin Bondarenko, a cosmonaut training for a crewed Vostok mission, was killed in an endurance experiment after the chamber he was in caught on fire. The Soviet Union chose to cover up his death and continue on with the space program.
+
+
+=== After Korolev ===
+
+Korolev died in January 1966 from complications of heart disease and severe hemorrhaging following a routine operation that uncovered colon cancer. Kerim Kerimov, who had previously served as the head of the Strategic Rocket Forces and had participated in the State Commission for Vostok as part of his duties, was appointed Chairman of the State Commission on Piloted Flights and headed it for the next 25 years (1966–1991). He supervised every stage of development and operation of both crewed space complexes as well as uncrewed interplanetary stations for the former Soviet Union. One of Kerimov's greatest achievements was the launch of Mir in 1986.
+The leadership of the OKB-1 design bureau was given to Vasily Mishin, who had the task of sending a human around the Moon in 1967 and landing a human on it in 1968. Mishin lacked Korolev's political authority and still faced competition from other chief designers. Under pressure, Mishin approved the launch of the Soyuz 1 flight in 1967, even though the craft had never been successfully tested on an uncrewed flight. The mission launched with known design problems and ended with the vehicle crashing to the ground, killing Vladimir Komarov. This was the first in-flight fatality of any space program.
+
+The Soviets were beaten in sending the first crewed flight around the Moon in 1968 by Apollo 8, but Mishin pressed ahead with development of the flawed super heavy N1, in the hope that the Americans would have a setback, leaving enough time to make the N1 workable and land a man on the Moon first. There was a success with the joint flight of Soyuz 4 and Soyuz 5 in January 1969 that tested the rendezvous, docking, and crew transfer techniques that would be used for the landing, and the LK lander was tested successfully in earth orbit. But after four uncrewed test launches of the N1 ended in failure, the program was suspended for two years and then cancelled, removing any chance of the Soviets landing men on the Moon before the United States.
+Besides the crewed landings, the abandoned Soviet Moon program included the multipurpose Moon base Zvezda, first detailed with developed mockups of expedition vehicles and surface modules.
+Following this setback, Chelomey convinced Ustinov to approve a program in 1970 to advance his Almaz military space station as a means of beating the US's announced Skylab. Mishin remained in control of the project that became Salyut but the decision backed by Mishin to fly a three-man crew without pressure suits rather than a two-man crew with suits to Salyut 1 in 1971 proved fatal when the re-entry capsule depressurized killing the crew on their return to Earth. Mishin was removed from many projects, with Chelomey regaining control of Salyut. After working with NASA on the Apollo–Soyuz, the Soviet leadership decided a new management approach was needed, and in 1974 the N1 was canceled and Mishin was out of office. The design bureau was renamed NPO Energia with Glushko as chief designer.
+In contrast with the difficulty faced in its early crewed lunar programs, the USSR found significant success with its remote Moon operations, achieving two historical firsts with the automatic Lunokhod and the Luna sample return missions. The Mars probe program was also continued with some success, while the explorations of Venus and then of the Halley comet by the Venera and Vega probe programs were more effective.
+
+
+== Lunar missions ==
+
+The "Luna" programme, achieved the first flyby of the Moon by Luna 1 in 1959 (also marking the first time a probe reached the far side of the Moon), the first impact of the moon by Luna 2, and the first photos of the far side of the Moon by Luna 3.
+As well as garnering scientific information on the Moon, Luna 1 was able to detect a strong flow of ionized plasma emanating from the Sun, streaming through interplanetary space. Luna 2 impacted the Moon east of Mare Imbrium. Photography transmitted by Luna 3 showed two dark regions which were named Mare Moscoviense (Sea of Moscow) and Mare Desiderii (Sea of Dreams), the latter was found to be composed of the smaller Mare Ingenii and other dark craters. Luna 2 marked the first time a man-made object has contacted a celestial body. Luna 1 discovered the Moon had no magnetic field.
+
+In 1963, the Soviet Union's "2nd Generation" Luna programme was less successful, Luna 4, Luna 5, Luna 6, Luna 7, and Luna 8 were all met with mission failures. However, in 1966 Luna 9 achieved the first soft-landing on the Moon, and successfully transmitted photography from the surface. Luna 10 marked the first man-made object to establish an orbit around the Moon, followed by Luna 11, Luna 12, and Luna 14 which also successfully established orbits. Luna 12 was able to transmit detailed photography of the surface from orbit. Luna 10, 12, and Luna 14 conducted Gamma ray spectrometry of the Moon, among other tests.
+
+The Zond programme was orchestrated alongside the Luna programme with Zond 1 and Zond 2 launching in 1964, intended as flyby missions, however both failed. Zond 3 however was successful, and transmitted high quality photography from the far side of the Moon. 
+
+In late 1966, Luna 13 became the third spacecraft to make a soft-landing on the Moon, with the American Surveyor 1 having now taken second.
+Zond 4, launched in 1968 was intended as a means to test the possibility of a crewed mission to the Moon, including methods of a stable re-entry to earth from a Lunar trajectory using a heat shield. It did not flyby the Moon, but established an elliptical orbit at Lunar distance. Due to issues with the crafts orientation, it was unable to make a soft-landing in the Soviet Union and instead was self destructed. Later in the year Zond 5, carrying two Russian tortoises became the first man-made object to flyby the Moon and return to Earth (as well as the first animals to flyby the Moon), splashing down in the Indian Ocean. Zond 6, Zond 7, and Zond 8 had similar mission profiles, Zond 6  failed to return to earth safely, Zond 7 did however and returned high quality color photography of the Earth and the Moon from varying distances, Zond 8 successfully returned to earth after a Lunar flyby. 
+
+In 1969, Luna 15 was an intended lunar sample return mission, however resulted in a crash landing. In 1970 however Luna 16 became the first robotic probe to land on the Moon and return a surface sample, having drilled 35 cm into the surface, to Earth and represented the first lunar sample return mission by the Soviet Union and the third overall, having followed the Apollo 11 and Apollo 12 crewed missions.
+Luna 17, and Luna 21 delivered rovers onto the surface of the Moon. Luna 20 and Luna 24 were other successful sample return missions. Luna 18 and Luna 23 resulted in crash landings.
+In total there were 24 missions in the Luna Programme, 15 were considered to be successful, including four hard landings and three soft landings, six orbits, and two flybys. The programme was continued after the collapse of the Soviet Union, when the  Russian federation space agency launched Luna 25 in 2023.
+
+
+== Venusian missions ==
+
+The Venera programme marked many firsts in space exploration and explorations of Venus. Venera 1 and Venera 2 resulted in failure due to losses of contact, Venera 3, which also lost contact, marked the first time a man-made object made contact with another planet after it impacted Venus on March 1, 1966. Venera 4, Venera 5, and Venera 6 performed successful atmospheric entry. In 1970 Venera 7 marked the first time a spacecraft was able to return data after landing on another planet.
+Venera 7 held a resistant thermometer and an aneroid barometer to measure the temperature and atmospheric pressure on the surface, the transmitted data showed 475 C at the surface, and a pressure of 92 bar. A wind of 2.5 meters/sec was extrapolated from other measurements. The landing point of Venera 7 was 5°S 9°W. Venera 7 impacted the surface at a somewhat high speed of 17 metres per second, later analysis of the recorded radio signals revealed that the probe had survived the impact and continued transmitting a weak signal for another 23 minutes. It is believed that the spacecraft may have bounced upon impact and come to rest on its side, so the antenna was not pointed towards Earth.
+
+In 1972, Venera 8 landed on Venus and measured the light level as being suitable for surface photography, finding it to be similar to the amount of light on Earth on an overcast day with roughly 1 km visibility.
+In 1975, Venera 9 established an orbit around Venus and successfully returned the first photography of the surface of Venus. Venera 10 landed on Venus and followed with further photography shortly after.
+In 1978, Venera 11 and Venera 12 successfully landed, however ran into issues performing photography and soil analysis. Venera 11's light sensor detected lightning strikes.
+
+ 
+In 1981, Venera 13 performed a successful soft-landing on Venus and marked the first probe to drill into the surface of another planet and take a sample. Venera 13 also took an audio sample of the Venusian environment, marking another first.
+Venera 13 returned the first color images of the surface of Venus, revealing an orange-brown flat bedrock surface covered with loose regolith and small flat thin angular rocks. The composition of the sample determined by the X-ray fluorescence spectrometer put it in the class of weakly differentiated melanocratic alkaline gabbroids, similar to terrestrial leucitic basalt with a high potassium content. The acoustic detector returned the sounds of the spacecraft operations and the background wind, estimated to be a speed of around 0.5 m/sec wind.
+Venera 14, an identical spacecraft to Venera 13, launched 5 days apart. The mission profiles were very similar, except 14 ran into issues using its spectrometer to analyze the soil.
+In total 10 Venera probes achieved a soft landing on the surface of Venus.
+In 1984, the Vega programme began and ended with the launch of two crafts launched 6 days apart, Vega 1 and Vega 2. Both crafts deployed a balloon in addition to a lander, marking a first in spaceflight.
+
+
+== Martian missions ==
+
+The first Soviet mission to explore Mars, Mars 1, was launched in 1962. Although it was intended to fly by the planet and transmit scientific data, the spacecraft lost contact before reaching Mars, marking a setback for the program. In 1971, the Soviet Union launched Mars 2 and Mars 3. Mars 2 became the first spacecraft to reach the surface of Mars, however this was a hard landing and was destroyed on impact. However, Mars 3 achieved a historic milestone by becoming the first successful soft landing on Mars. Mars 3 used parachutes and rockets as part of its landing system, however contacted the surface at a somewhat high speed of 20 metres per second. Unfortunately, its lander transmitted data for only up to 20 seconds before it went silent.
+Following the initial successes and setbacks, the Mars 4, Mars 5, Mars 6, and Mars 7 missions were launched between 1969 and 1973. Mars 4 and Mars 5 performed successful flybys, performing analysis which detected the presence of a weak Ozone layer and magnetic field corroborating analysis done by the American Mariner 4 and Mariner 9. Mars 6 and Mars 7 failed to successfully land.
+
+
+== Salyut space station ==
+
+The Salyut programme was a series of missions which established the first earth orbit Space station. "Salyut" meaning "Salute" translated.
+
+Initially, the Salyut stations served as research laboratories in orbit. Salyut 1, the first in the series, launched in 1971, was primarily a civilian scientific mission. The crew set a then record-setting 24-day mission though its tragic end due to the death of the Soyuz-11 crew after a docking accident underscored the high risks of human spaceflight. Following this, the Soviet Union also developed Salyut 2 and Salyut 3, which featured reconnaissance capabilities and carried a large gun, both ran into significant issues during their missions. This dual use design of both scientific and military research applications demonstrated the Soviet Union's strategy of blending scientific achievement with defense applications.
+
+As the Salyut program progressed, later missions like Salyut 6 and Salyut 7 improved upon earlier designs by allowing long-duration crewed missions and more complex experiments. These stations, with their expanded crew capacity and amenities for long term stay, carrying electric stoves, a refrigerator, and constant hot water. The Salyut series effectively paved the way for future Soviet and later Russian space stations, including the Mir space station, which would become a significant part in the history of long-term space exploration.
+The longest stay, aboard Salyut 7, was 237 days.
+
+
+== Program secrecy ==
+
+The Soviet space program had withheld information on its projects predating the success of Sputnik, the world's first artificial satellite. In fact, when the Sputnik project was first approved, one of the most immediate courses of action the Politburo took was to consider what to announce to the world regarding their event. Television news did not report on the deaths aboard Soyuz 11 until six hours later. As of 1972 no Soviet rocket launch was broadcast live. Such delays sometimes caused Soviet citizens to mistakenly speculate that a problem had occurred.
+The Telegraph Agency of the Soviet Union (TASS) established precedents for all official announcements on the Soviet space program. The information eventually released did not offer details on who built and launched the satellite or why it was launched. The public release revealed, "there is an abundance of arcane scientific and technical data... as if to overwhelm the reader with mathematics in the absence of even a picture of the object". What remains of the release is the pride for Soviet cosmonautics and the vague hinting of future possibilities then available after Sputnik's success.
+The Soviet space program's use of secrecy served as both a tool to prevent the leaking of classified information between countries and also to create a mysterious barrier between the space program and the Soviet populace. The program's nature embodied ambiguous messages concerning its goals, successes, and values. Launchings were not announced until they took place. Cosmonaut names were not released until they flew. Mission details were sparse. Outside observers did not know the size or shape of their rockets or cabins or most of their spaceships, except for the first Sputniks, lunar probes and Venus probe.
+
+However, the military influence over the Soviet space program may be the best explanation for this secrecy. The OKB-1 was subordinated under the Ministry of General Machine-Building, tasked with the development of intercontinental ballistic missiles, and continued to give its assets random identifiers into the 1960s: "For example, the Vostok spacecraft was referred to as 'object IIF63' while its launch rocket was 'object 8K72K'". Soviet defense factories had been assigned numbers rather than names since 1927. Even these internal codes were obfuscated: in public, employees used a separate code, a set of special post-office numbers, to refer to the factories, institutes, and departments.
+The program's public pronouncements were uniformly positive: as far as the people knew, the Soviet space program had never experienced failure. According to historian James Andrews, "With almost no exceptions, coverage of Soviet space exploits, especially in the case of human space missions, omitted reports of failure or trouble".
+According to Dominic Phelan in the book Cold War Space Sleuths, "The USSR was famously described by Winston Churchill as 'a riddle, wrapped in a mystery, inside an enigma' and nothing signified this more than the search for the truth behind its space program during the Cold War. Although the Space Race was literally played out above our heads, it was often obscured by a figurative 'space curtain' that took much effort to see through."
+
+
+== Projects and accomplishments ==
+
+
+=== Completed projects ===
+The Soviet space program's projects include:
+
+
+=== Notable firsts ===
+
+Two days after the United States announced its intention to launch an artificial satellite, on July 31, 1955, the Soviet Union announced its intention to do the same. Sputnik 1 was launched on October 4, 1957, beating the United States and stunning people all over the world.
+The Soviet space program pioneered many aspects of space exploration:
+
+1957: First intercontinental ballistic missile and orbital launch vehicle, the R-7 Semyorka.
+1957: First satellite, Sputnik 1.
+1957: First animal in Earth orbit, the dog Laika on Sputnik 2.
+1959: First rocket ignition in Earth orbit, first man-made object to escape Earth's gravity, Luna 1.
+1959: First data communications, or telemetry, to and from outer space, Luna 1.
+1959: First man-made object to pass near the Moon, first man-made object in Heliocentric orbit, Luna 1.
+1959: First probe to impact the Moon, Luna 2.
+1959: First images of the Moon's far side, Luna 3.
+1960: First animals to safely return from Earth orbit, the dogs Belka and Strelka on Sputnik 5.
+1961: First probe launched to Venus, Venera 1.
+1961: First person in space (International definition) and in Earth orbit, Yuri Gagarin on Vostok 1, Vostok program.
+1961: First person to spend over 24 hours in space Gherman Titov, Vostok 2 (also first person to sleep in space).
+1962: First dual crewed spaceflight, Vostok 3 and Vostok 4.
+1962: First probe launched to Mars, Mars 1.
+1963: First woman in space, Valentina Tereshkova, Vostok 6.
+1964: First multi-person crew (3), Voskhod 1.
+1965: First extra-vehicular activity (EVA), by Alexsei Leonov, Voskhod 2.
+1965: First radio telescope in space, Zond 3.
+1965: First probe to hit another planet of the Solar System (Venus), Venera 3.
+1966: First probe to make a soft landing on and transmit from the surface of the Moon, Luna 9.
+1966: First probe in lunar orbit, Luna 10.
+1966: First image of the whole Earth disk, Molniya 1.
+1967: First uncrewed rendezvous and docking, Cosmos 186/Cosmos 188.
+1968: First living beings to reach the Moon (circumlunar flights) and return unharmed to Earth, Russian tortoises and other lifeforms on Zond 5.
+1969: First docking between two crewed craft in Earth orbit and exchange of crews, Soyuz 4 and Soyuz 5.
+1970: First soil samples automatically extracted and returned to Earth from another celestial body, Luna 16.
+1970: First robotic space rover, Lunokhod 1 on the Moon.
+1970: First full interplanetary travel with a soft landing and useful data transmission. Data received from the surface of another planet of the Solar System (Venus), Venera 7
+1971: First space station, Salyut 1.
+1971: First probe to impact the surface of Mars, Mars 2.
+1971: First probe to land on Mars, Mars 3.
+1971: First armed space station, Almaz.
+1975: First probe to orbit Venus, to make a soft landing on Venus, first photos from the surface of Venus, Venera 9.
+1980: First Asian person in space, Vietnamese Cosmonaut Pham Tuan on Soyuz 37; and First Latin American, Cuban and person with African ancestry in space, Arnaldo Tamayo Méndez on Soyuz 38
+1984: First Indian Astronaut in space, Rakesh Sharma on Soyuz T-11 (Salyut-7 space station).
+1984: First woman to walk in space, Svetlana Savitskaya (Salyut 7 space station).
+1986: First crew to visit two separate space stations (Mir and Salyut 7).
+1986: First probes to deploy robotic balloons into Venus atmosphere and to return pictures of a comet during close flyby Vega 1, Vega 2.
+1986: First permanently crewed space station, Mir, 1986–2001, with a permanent presence on board (1989–1999).
+1987: First crew to spend over one year in space, Vladimir Titov and Musa Manarov on board of Soyuz TM-4 – Mir.
+1988: First fully automated flight of a spaceplane (Buran).
+
+
+== Incidents, failures, and setbacks ==
+
+
+=== Accidents ===
+
+The Soviet space program experienced a number of fatal incidents and failures.
+The first official cosmonaut fatality during training occurred on March 23, 1961, when Valentin Bondarenko died in a fire within a low pressure, high oxygen atmosphere.
+On April 23, 1967, Soyuz 1 crashed into the ground at 90 mph (140 km/h) due to a parachute failure, killing Vladimir Komarov. Komarov's death was the first in-flight fatality in the history of spaceflight.
+The Soviets continued striving for the first lunar mission with the N-1 rocket, which exploded on each of four uncrewed tests shortly after launch. The Americans won the race to land men on the Moon with Apollo 11 on July 20, 1969.
+In 1971, the Soyuz 11 mission to stay at the Salyut 1 space station resulted in the deaths of three cosmonauts when the reentry capsule depressurized during preparations for reentry. This accident resulted in the only human casualties to occur in space (beyond 100 km (62 mi), as opposed to the high atmosphere). The crew members aboard Soyuz 11 were Vladislav Volkov, Georgy Dobrovolsky, and Viktor Patsayev.
+On April 5, 1975, Soyuz 7K-T No.39, the second stage of a Soyuz rocket carrying two cosmonauts to the Salyut 4 space station malfunctioned, resulting in the first crewed launch abort. The cosmonauts were carried several thousand miles downrange and became worried that they would land in China, which the Soviet Union was having difficult relations with at the time. The capsule hit a mountain, sliding down a slope and almost slid off a cliff; however, the parachute lines snagged on trees and kept this from happening. As it was, the two suffered severe injuries and the commander, Lazarev, never flew again.
+On March 18, 1980, a Vostok rocket exploded on its launch pad during a fueling operation, killing 48 people.
+In August 1981, Kosmos 434, which had been launched in 1971, was about to re-enter. To allay fears that the spacecraft carried nuclear materials, a spokesperson from the Ministry of Foreign Affairs of the USSR assured the Australian government on 26 August 1981, that the satellite was "an experimental lunar cabin". This was one of the first admissions by the Soviet Union that it had ever engaged in a crewed lunar spaceflight program.
+In September 1983, a Soyuz rocket being launched to carry cosmonauts to the Salyut 7 space station exploded on the pad, causing the Soyuz capsule's abort system to engage, saving the two cosmonauts on board.
+
+
+=== Buran ===
+
+The Soviet Buran program attempted to produce a class of spaceplanes launched from the Energia rocket, in response to the US Space Shuttle. It was intended to operate in support of large space-based military platforms as a response to the Strategic Defense Initiative. Buran only had orbital maneuvering engines, unlike the Space Shuttle, Buran did not fire engines during launch, instead relying entirely on Energia to lift it out of the atmosphere. It copied the airframe and thermal protection system design of the US Space Shuttle Orbiter, with a maximum payload of 30 metric tons (slightly higher than that of the Space Shuttle), and weighed less. It also had the capability to land autonomously. Due to this, some retroactively consider it to be the more capable launch vehicle. By the time the system was ready to fly in orbit in 1988, strategic arms reduction treaties made Buran redundant. On November 15, 1988, Buran and its Energia rocket were launched from Baikonur Cosmodrome in Kazakhstan, and after two orbits in three hours, glided to a landing a few miles from its launch pad. While the craft survived that re-entry, the heat shield was not reusable. This failure resulted from United States counter intelligence efforts. After this test flight, the Soviet Ministry of Defense would defund the program, considering it relatively pointless compared to its price.
+
+
+=== Polyus satellite ===
+The Polyus satellite was a prototype orbital weapons platform designed to destroy Strategic Defense Initiative satellites with a megawatt carbon-dioxide laser. Launched mounted upside-down on its Energia rocket, its single flight test was a failure when the inertial guidance system failed to rotate it 180° and instead rotated a complete 360°.
+
+
+== Canceled projects ==
+
+
+=== Energia rocket ===
+
+The Energia was a successfully developed super heavy-lift launch vehicle which burned liquid hydrogen fuel. But without the Buran or Polyus payloads to launch, it was also canceled due to lack of funding on dissolution of the USSR.
+
+
+=== Interplanetary projects ===
+
+
+==== Mars missions ====
+Heavy rover Mars 4NM was going to be launched by the abandoned N1 launcher between 1974 and 1975.
+Mars sample return mission Mars 5NM was going to be launched by a single N1 launcher in 1975.
+Mars sample return mission Mars 5M or (Mars-79) was to be double launched in parts by Proton launchers, and then joined in orbit for flight to Mars in 1979.
+
+
+==== Vesta ====
+The Vesta mission would have consisted of two identical double-purposed interplanetary probes to be launched in 1991. It was intended to fly-by Mars (instead of an early plan to Venus) and then study four asteroids belonging to different classes. At 4 Vesta a penetrator would be released.
+
+
+==== Tsiolkovsky ====
+The Tsiolkovsky mission was planned as a double-purposed deep interplanetary probe to be launched in the 1990s to make a "sling shot" flyby of Jupiter and then pass within five or seven radii of the Sun. A derivative of this spacecraft would possibly be launched toward Saturn and beyond.
+
+
+== Legacy ==
+Following the dissolution of the Soviet Union, Russia was estimated to inherit 75% of "space related properties" by economic value and 90% of Soviet space industry enterprises. However, Ukraine was also estimated to have inherited a third of the Soviet space industry. The inherited space infrastructure in Kazakhstan and Ukraine, and even less in other post-Soviet states, was initially considered "not comprehensive enough" to support independent space programs. 
+Continued interdependence was common, managed by the Commonwealth of Independent States' "Interstate Space Programme". For example Ukrainian-built Tsyklon and Zenit rockets required launching from Kazakhstan's Baikonur Cosmodrome, Zenits required engines from Russia, and Russia's Soyuz and Proton rockets, as well as the Prognoz, Mars 96, and Spektr-R scientific satellites, required guidance systems from Ukraine. In 1994, Ukrainian rocket manufacture Pivdenmash continued to produce three to four Tskylon or Zenit rockets per year, mostly for use by Russia, compared to ten per year during the Soviet period.
+The International Space Station's early modules of the Russian Orbital Segment were descended directly from Soviet technology. The Zarya tug module was based on the Functional Cargo Block component of the Soviet 1960s-origin TKS spacecraft. Zvezda, the central crew and life support module, was descended from the Salyut programme of Soviet space stations, and was originally named DOS-8, succeeding DOS-7 designation of the Mir Core Module and the DOS-6 of Salyut 7.
+Other extant parts of the Soviet space legacy include the Russian-operated Soyuz and Proton rocket families, the crewed Soyuz spacecraft and uncrewed Progress spacecraft, and the GLONASS global satellite navigation system.
+
+
+== See also ==
+
+DRAKON, an algorithmic visual programming language developed for the Buran space project.
+Intercosmos, a Soviet space program designed to give nations on friendly relations with the Soviet Union access to crewed and uncrewed space missions
+List of Russian aerospace engineers
+List of Russian explorers
+List of space disasters
+Pilot-Cosmonaut of the USSR, an honorary title
+Roscosmos, the program's eventual post-Soviet continuation under the Russian Federation
+Roscosmos Cosmonaut Corps, Russian astronaut corps
+Sheldon names, which were used to identify launch vehicles of the Soviet Union when their Soviet names were unknown in the USA
+Soviet rocketry
+Space Race
+Tank on the Moon, a 2007 French documentary film on the Lunokhod program
+
+
+== References ==
+
+
+== Bibliography ==
+Andrews, James T.: Red Cosmos: K. E. Tsiolkovskii, Grandfather of Soviet Rocketry. (College Station: Texas A&M University Press, 2009)
+Brzezinski, Matthew: Red Moon Rising: Sputnik and the Hidden Rivalries that Ignited the Space Age. (Holt Paperbacks, 2008)
+Burgess, Colin; French, Francis: Into That Silent Sea: Trailblazers of the Space Era, 1961–1965. (University of Nebraska Press, 2007)
+Burgess, Colin; French, Francis: In the Shadow of the Moon: A Challenging Journey to Tranquility, 1965–1969. (University of Nebraska Press, 2007)
+Harford, James: Korolev: How One Man Masterminded the Soviet Drive to Beat America to the Moon. (John Wiley & Sons, 1997)
+Siddiqi, Asif A.: Challenge to Apollo: The Soviet Union and the Space Race, 1945–1974. (Washington, D.C.: National Aeronautics and Space Administration, 2000)
+Siddiqi, Asif A.: The Red Rockets' Glare: Spaceflight and the Soviet Imagination, 1857–1957. (New York: Cambridge University Press, 2010)
+Siddiqi, Asif A.; Andrews, James T. (eds.): Into the Cosmos: Space Exploration and Soviet Culture. (Pittsburgh: University of Pittsburgh Press, 2011)
+Baker, David; Zak, Anatoly (2013). Race for Space 1: Dawn of the Space Age. RHK. Retrieved May 20, 2022.
+Chertok, Boris (January 31, 2005). Rockets and People (Volumes 1–4 ed.). National Aeronautics and Space Administration. Bibcode:2005ntrs.book10181C. Retrieved May 29, 2022.
+Rödel, Eberhard (2018). The Soviet space program: first steps: 1941–1953. Atglen, PA: Schiffer Publishing Ltd. ISBN 978-0764355394.
+Reichl, Eugen (2019). The Soviet Space Program: The Lunar Mission Years: 1959–1976 (1st ed.). Schiffer Military History. ISBN 978-0-7643-5675-9.
+Reichl, Eugen (2019). The Soviet space program: the N1, the Soviet Moon rocket. Atglen, PA: Schiffer Publishing. ISBN 978-0764358555.
+Burgess, Colin; Hall, Rex (2009). The First Soviet Cosmonaut Team: Their Lives, Legacy, and Historical Impact. Praxis. ISBN 978-0-387-84824-2.
+
+
+== External links ==

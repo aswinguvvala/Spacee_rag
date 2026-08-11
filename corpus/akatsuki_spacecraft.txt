@@ -1,0 +1,101 @@
+Akatsuki (あかつき, 暁; "Dawn"), also known as the Venus Climate Orbiter (VCO) and Planet-C, was a Japan Aerospace Exploration Agency (JAXA) space probe tasked with studying the atmosphere of Venus. It was launched aboard an H-IIA 202 rocket on 20 May 2010, but failed to enter orbit around Venus on 6 December 2010. After the craft orbited the Sun for five years, engineers successfully placed it into an alternate Venusian elliptic orbit on 7 December 2015 by firing its attitude control thrusters for 20 minutes, making it the first Japanese satellite to orbit Venus.
+By using five different cameras working at several wavelengths, Akatsuki studied the stratification of the atmosphere, atmospheric dynamics, and cloud physics. Astronomers working on the mission reported detecting a possible gravity wave (not to be confused with gravitational waves) in Venus's atmosphere in December 2015.
+JAXA lost contact with the probe in late April 2024.  Operation was terminated officially on 18 September 2025.
+
+
+== Mission ==
+Akatsuki was Japan's first planetary exploration mission since the failed Mars orbiter Nozomi probe which was launched in 1998. Akatsuki was originally intended to conduct scientific research for two or more years from an elliptical orbit around Venus ranging from 300 to 80,000 km (190 to 49,710 mi) in altitude, but its alternate orbit had to be highly elliptical ranging between 1,000 and 10,000 kilometres (620 and 6,210 mi) at its nearest point and about 360,000 kilometres (220,000 mi) at its farthest. This larger orbit takes 10 days to complete instead of the originally planned 30 hours. The budget for this mission is ¥14.6 billion (US$174 million) for the satellite and ¥9.8 billion (US$116 million) for the launch.
+Observations included cloud and surface imaging from an orbit around the planet with cameras operating in the infrared, visible and UV wavelengths to investigate the complex Venusian meteorology and elucidate the processes behind the mysterious atmospheric super-rotation. On Venus, while the planet rotates at 6 kilometres per hour (3.7 mph) at the equator, the atmosphere spins around the planet at 300 kilometres per hour (190 mph). Other experiments were designed to confirm the presence of lightning and to determine whether volcanism occurs currently on Venus.
+
+
+=== Spacecraft design ===
+
+The main bus is a 1.45 × 1.04 × 1.44 m (4.8 × 3.4 × 4.7 ft) box with two solar arrays, each with an area of about 1.4 m2 (15 sq ft). The solar arrays provided over 700 W of power while in Venus orbit. The total mass of the spacecraft at launch was 517.6 kg (1,141 lb). The mass of the science payload was 34 kg (75 lb).
+Propulsion was provided by a 500-newton (110 lbf) bi-propellant, hydrazine-dinitrogen tetroxide orbital maneuvering engine and twelve mono-propellant hydrazine reaction control thrusters, eight with 23 N (5.2 lbf) of thrust and four with 3 N (0.67 lbf). It was the first spacecraft to use a ceramic (silicon nitride) retrofire thruster. The total propellant mass at launch was 196.3 kg (433 lb).
+Communication was handled via an 8 GHz, 20-watt X-band transponder using the 1.6 m (5 ft 3 in) high-gain antenna. The high-gain antenna was flat to prevent heat from building up in it. Akatsuki also had a pair of medium-gain horn antennas mounted on turntables and two low-gain antennas for command uplink. The medium-gain horn antennas were used for housekeeping data downlink when the high-gain antenna was not facing Earth.
+
+
+== Instruments ==
+
+The scientific payload consisted of six instruments. Five imaging cameras were used to explore Venus in wavelengths from ultraviolet to the mid-infrared:
+
+the Lightning and Airglow Camera (LAC) searched for lightning in the visible spectrum (552–777 nm)
+the ultraviolet imager (UVI) studied the distribution of specific atmospheric gases such as sulfur dioxide and the famous unknown absorber at ultraviolet wavelengths (283–365 nm)
+the longwave infrared camera (LIR) studied the structure of high-altitude clouds at a wavelength where they emit heat (10 μm)
+the infrared 1 μm camera (IR1) imaged the night side heat radiation (0.90–1.01 μm) emitted from Venus's surface and help researchers to search for active volcanoes. While on the day side, it sensed the solar near-infrared radiation (0.90 μm) reflected by the middle clouds. Operation of the instrument was terminated in December 2016 due to an electronic failure.
+the infrared 2 μm camera (IR2) studied the night side lower clouds' opacity to the thermal emission from the surface and deeper atmosphere (1.74–2.32 μm). It also sensed on the day side the CO2 band at 2.02 μm, which can be used to infer the altitude of the top of the clouds. Finally, the 1.65-μm filter was used during the cruise phase to study the zodiacal light. Operation of the instrument was terminated in December 2016 due to an electronic failure.
+the Ultra-Stable Oscillator (USO) for performing radio occultation experiments.
+
+
+== Public relations ==
+A public relations campaign was held between October 2009 and January 2010 by the Planetary Society and JAXA, to allow individuals to send their name and a message aboard Akatsuki. Names and messages were printed in fine letters on an aluminium plate and placed aboard Akatsuki. 260,214 people submitted names and messages for the mission. Around 90 aluminium plates were created for the spacecraft, including three aluminium plates in which the images of the Vocaloid Hatsune Miku and her super deformed-styled figure Hachune Miku were printed.
+
+
+== Operations ==
+
+
+=== Launch ===
+
+Akatsuki left the Sagamihara Campus on 17 March 2010, and arrived at the Tanegashima Space Center's Spacecraft Test and Assembly Building 2 on 19 March. On 4 May, Akatsuki was encapsulated inside the large payload fairing of the H-IIA rocket that launched the spacecraft, along with the IKAROS solar sail, on a 6-month journey to Venus. On 9 May, the payload fairing was transported to the Tanegashima Space Center's Vehicle Assembly Building, where the fairing was mated to the H-IIA launch vehicle itself.
+The spacecraft was launched on 20 May 2010 at 21:58:22 (UTC) from the Tanegashima Space Center, after being delayed because of weather from its initial 18 May scheduled target.
+
+
+=== Orbit insertion failure ===
+
+Akatsuki was planned to initiate orbit insertion operations by igniting the orbital maneuvering engine at 23:49:00 on 6 December 2010 UTC. The burn was supposed to continue for twelve minutes, to an initial Venus orbit with an apoapsis altitude of 80,000 km (50,000 mi), a periapsis altitude of 300 km (190 mi), and a 30 h orbital period.
+The orbit insertion maneuver was confirmed to have started on time, but after the expected blackout due to occultation by Venus, the communication with the probe did not recover as planned. The probe was found to be in safe-hold mode, spin-stabilized state with ten minutes per rotation. Due to the low communication speed through the low-gain antenna, it took a while to determine the state of the probe. JAXA stated on 8 December that the probe's orbital insertion maneuver had failed. At a press conference on 10 December, officials reported that Akatsuki's engines fired for less than three minutes, far less than what was required to enter into Venus orbit. Further research found that the likely reason for the engine malfunction was salt deposits jamming the valve between the helium pressurization tank and the fuel tank. As a result, engine combustion became oxidizer-rich, with resulting high combustion temperatures damaging the combustion chamber throat and nozzle. A similar vapor leakage problem caused the failure of NASA's Mars Observer probe in 1993.
+As a result, the probe was in a heliocentric orbit, rather than Venus orbit. Since the resulting orbit had an orbital period of 203 days, shorter than Venus's orbital period of 225 days, the probe drifted around the Sun compared to Venus.
+
+
+=== Recovery efforts ===
+JAXA developed plans to attempt another orbital insertion burn when the probe returned to Venus in December 2015. This required placing the probe into "hibernation" or safe mode to prolong its life beyond the original 4.5-year design.  JAXA expressed some confidence in keeping the probe operational, pointing to reduced battery wear, since the probe was then orbiting the Sun instead of its intended Venusian orbit.
+Telemetry data from the original failure suggested that the throat of its main engine, the orbit maneuver engine (OME) was still largely intact, and trial jet thrusts of the probe's onboard OME were performed twice, on 7 and 14 September 2011. However, the thrust was only about 40 newtons (9.0 lbf), which was 10% of expectations. Following these tests, it was determined that insufficient specific impulse would be available for orbital maneuvering by the OME. It was concluded that the remaining combustion chamber throat was completely destroyed by transient ignition of the engine. As a result, the selected strategy was to use four hydrazine attitude control thrusters, also called reaction control system (RCS), to drive the probe into orbit around Venus. Because the RCS thrusters do not need oxidiser, the remaining 65 kilograms (143 lb) of oxidiser (MON) was vented overboard in October 2011 to reduce the mass of the spacecraft.
+Three peri-Venus orbital maneuvers were executed on 1 November, 10 and 21 November 2011 using the RCS thrusters. A total delta-v of 243.8 metres per second (800 ft/s) was imparted to the spacecraft. Because the RCS thrusters' specific impulse is low compared to the specific impulse of the OME, the previously planned insertion into low Venusian orbit became impossible. Instead, the new plan was to place the probe in a highly elliptical orbit with an apoapsis of a hundred thousand kilometers and a periapsis of a few thousand kilometers from Venus. Engineers planned for the alternate orbit to be prograde (in the direction of the atmospheric super-rotation) and lie in the orbital plane of Venus. The method and orbit were announced by JAXA in February 2015, with an orbit insertion date of 7 December 2015. The probe reached its most distant point from Venus on 3 October 2013 and had been approaching the planet since then.
+
+
+=== Orbit insertion ===
+
+After performing the last of a series of four trajectory correction maneuvers between 17 July and 11 September 2015, the probe was established on a trajectory to fly past Venus on 7 December 2015, when Akatsuki would make a maneuver to enter Venus orbit after a 20-minute burn with four thrusters that were not rated for such a hefty propulsive maneuver.  Instead of taking about 30 hours to complete an orbit around Venus—as was originally planned—the new orbit targeted would place Akatsuki in a nine-day orbit after an adjustment in March 2016.
+After JAXA engineers measured and calculated its orbit following the 7 December orbital insertion, JAXA announced on 9 December that Akatsuki had successfully entered the intended elliptical orbit, as far as 440,000 km (270,000 mi) from Venus, and as close as 400 km (250 mi) from Venus's surface with an orbital period of 13 days and 14 hours.
+A follow-up thruster burn on 26 March 2016 lowered Akatsuki's apoapsis to about 370,000 km (230,000 mi), periapsis altitude periodically changing from 1,000 to 10,000 kilometres (620 to 6,210 mi), and shortened its orbital period from 13 to about 10 days.
+
+
+=== Status ===
+The orbiter started its two-year period of "regular" science operations in mid-May 2016. On 9 December 2016, the near-infrared 1-μm and 2-μm cameras became unavailable for observations due to an electronic failure. Its long-wave infrared camera, ultraviolet imager, and lightning and airglow camera continued normal operation.
+By April 2018, Akatsuki finished its regular observation phase, and entered an extended operation phase. Extended operations were approved until the end of 2020, with further mission extensions to be considered based on the spacecraft's condition at that time. As of November 2019, it was estimated that Akatsuki had enough fuel to continue operating for at least 2 more years.
+As of March 2024, operation was planned to continue through FY2028. In April 2024, degraded precision of attitude control resulted in failure of communication. JAXA declared the spacecraft's loss of contact with Earth on May 29, 2024.  Operation was terminated officially on 18 September 2025.
+
+
+== Science ==
+Three hours after insertion in December 2015 and in "a few glimmers in April and May" 2016 the craft's instruments recorded a "bow-shape feature in the atmosphere stretching 6,000 miles, almost pole to pole — a sideways smile". Scientists on the project termed the feature a "gravity wave" in the planet's winds above the Aphrodite Terra region of rift valleys and mountains reaching heights of over 4,000 metres (13,000 ft). The mission is collecting data in all relevant spectral bands from ultraviolet (280 nm) to mid-infrared wavelengths (10 μm).
+Images from the Akatsuki orbiter revealed something similar to jet stream winds in the low and middle cloud region, which extends from 45 to 60 kilometres (28 to 37 mi) in altitude. The wind speed maximized near the equator. In September 2017, JAXA scientists named this phenomenon 'Venusian equatorial jet'. They also published results on equatorial winds at the cloud-top level by tracking clouds on the UV spectrum. A significant result in 2018 is the appearance of thick clouds of small particles near the transition between upper and middle clouds, what was described as a "new and puzzling morphology of the complex cloud cover." By 2017, the science team published 3D maps on the Venus atmosphere structure. The physical quantities retrieved include the pressure, the temperature, the H2SO4 vapor density, and the ionospheric electron density and their variations. By the year 2019, the first results about the morphology, temporal changes and the winds at the middle clouds of Venus were published and merited the cover in Geophysical Research Letters, reporting unexpectedly high contrasts that might indicate the presence of absorbers like water.
+To image lightning, the orbiter had sight of the dark side of Venus for about 30 minutes every 10 days. In March 2020 a flash was detected and was determined unlikely to be a bolide or cosmic ray, however it was not confirmed to be lightning.
+
+
+== Gallery ==
+
+
+== See also ==
+
+IKAROS – First interplanetary solar sail spacecraft
+List of missions to Venus
+List of Venus probes
+Nozomi – Failed Japanese orbiter mission to Mars (1998–2003)
+Sakigake – Japanese flyby mission to Halley's Comet (1985–1999)
+Suisei – Japanese flyby mission to Halley's Comet (1985–1991)
+
+
+== References ==
+
+
+== External links ==
+
+Venus Climate Orbiter Akatsuki official website
+JAXA Akatsuki Planet-C page
+JAXA Akatsuki Special Site
+DARTS (ISAS JAXA) Akatsuki Science Archive
+Planet-C page (Solar Terrestrial Physics Group)
+Detailed Space Review article about Akatsuki and its recovery
+Venus Climate Orbiter Akatsuki (PDF, 1.72 Mb)
+Akatsuki – List of scientific publications
+A new look at Venus with Akatsuki by the Planetary Society

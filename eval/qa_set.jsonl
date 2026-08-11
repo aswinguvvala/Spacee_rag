@@ -1,0 +1,55 @@
+{"id": "a001", "question": "On what date did President Kennedy address the U.S. Congress to declare the goal of a crewed Moon landing?", "answerable": true, "gold_chunk_ids": ["apollo_11::chunk0005"]}
+{"id": "a002", "question": "How many pounds of lunar rock did the Apollo program bring back to Earth in total?", "answerable": true, "gold_chunk_ids": ["apollo_program::chunk0002"]}
+{"id": "a003", "question": "In what year did the Apollo-Soyuz Test Project take place?", "answerable": true, "gold_chunk_ids": ["apollo_program::chunk0002"]}
+{"id": "a004", "question": "What was Skylab and when was it launched?", "answerable": true, "gold_chunk_ids": ["apollo_program::chunk0065"]}
+{"id": "a005", "question": "Who took the famous 'Earthrise' photograph, and during which mission?", "answerable": true, "gold_chunk_ids": ["apollo_program::chunk0070"]}
+{"id": "a006", "question": "What is the name of the photograph taken by Apollo 17 astronauts that became an icon of the environmental movement?", "answerable": true, "gold_chunk_ids": ["apollo_program::chunk0070"]}
+{"id": "a007", "question": "In what year was NASA's Artemis program established as a successor to Apollo?", "answerable": true, "gold_chunk_ids": ["apollo_program::chunk0003"]}
+{"id": "a008", "question": "By what year does the Artemis program intend to return humans to the Moon's surface?", "answerable": true, "gold_chunk_ids": ["apollo_program::chunk0003"]}
+{"id": "a009", "question": "Who were the three astronauts on the Apollo 11 mission?", "answerable": true, "gold_chunk_ids": ["apollo_11::chunk0000"]}
+{"id": "a010", "question": "Where and at what time did the Apollo 11 Lunar Module land on the Moon?", "answerable": true, "gold_chunk_ids": ["apollo_11::chunk0001"]}
+{"id": "a011", "question": "What object did Buzz Aldrin use to fix a broken circuit breaker switch inside the Lunar Module before leaving the Moon?", "answerable": true, "gold_chunk_ids": ["apollo_11::chunk0055", "apollo_11::chunk0056"]}
+{"id": "a012", "question": "What camera brand did the Apollo 11 astronauts use during their moonwalk?", "answerable": true, "gold_chunk_ids": ["apollo_11::chunk0087"]}
+{"id": "a013", "question": "Why did President Kennedy choose a Moon landing as America's space race goal rather than competing on existing rocket capability?", "answerable": true, "gold_chunk_ids": ["apollo_11::chunk0004", "apollo_11::chunk0005"]}
+{"id": "a014", "question": "How much lunar material did the Apollo 11 crew collect?", "answerable": true, "gold_chunk_ids": ["apollo_11::chunk0001"]}
+{"id": "a015", "question": "Who commanded the Apollo 12 mission?", "answerable": true, "gold_chunk_ids": ["apollo_12::chunk0000"]}
+{"id": "a016", "question": "What happened to the Apollo 12 rocket shortly after launch?", "answerable": true, "gold_chunk_ids": ["apollo_12::chunk0001"]}
+{"id": "a017", "question": "Which two Apollo 12 astronauts went on to command Skylab missions, and which missions did they command?", "answerable": true, "gold_chunk_ids": ["apollo_12::chunk0041"]}
+{"id": "a018", "question": "Which Apollo 12 astronaut was the likely commander of the canceled Apollo 18 mission?", "answerable": true, "gold_chunk_ids": ["apollo_12::chunk0041"]}
+{"id": "a019", "question": "Who commanded the Apollo 13 mission?", "answerable": true, "gold_chunk_ids": ["apollo_13::chunk0000"]}
+{"id": "a020", "question": "What caused the Apollo 13 mission to be aborted?", "answerable": true, "gold_chunk_ids": ["apollo_13::chunk0000"]}
+{"id": "a021", "question": "Why was Jack Swigert added to the Apollo 13 crew just before launch?", "answerable": true, "gold_chunk_ids": ["apollo_13::chunk0000"]}
+{"id": "a022", "question": "What were the call signs of the Apollo 13 command module and lunar module?", "answerable": true, "gold_chunk_ids": ["apollo_13::chunk0014"]}
+{"id": "a023", "question": "How many Saturn V rockets did NASA originally contract for during the Apollo program?", "answerable": true, "gold_chunk_ids": ["apollo_13::chunk0003"]}
+{"id": "a024", "question": "Who commanded the Apollo 17 mission, and who was the lunar module pilot?", "answerable": true, "gold_chunk_ids": ["apollo_17::chunk0000"]}
+{"id": "a025", "question": "Why was Harrison Schmitt selected for the Apollo 17 crew?", "answerable": true, "gold_chunk_ids": ["apollo_17::chunk0000"]}
+{"id": "a026", "question": "What was the name of the Apollo 17 landing site?", "answerable": true, "gold_chunk_ids": ["apollo_17::chunk0000", "apollo_17::chunk0001"]}
+{"id": "a027", "question": "What did Harrison Schmitt do after resigning from NASA in 1975?", "answerable": true, "gold_chunk_ids": ["apollo_17::chunk0064"]}
+{"id": "a028", "question": "How many U.S. states and countries did the Apollo 17 crew visit on their post-mission tour?", "answerable": true, "gold_chunk_ids": ["apollo_17::chunk0063", "apollo_17::chunk0064"]}
+{"id": "a029", "question": "How many Saturn V rockets were launched in total, and over what years?", "answerable": true, "gold_chunk_ids": ["saturn_v::chunk0000"]}
+{"id": "a030", "question": "What was the Saturn V's maximum payload capacity to low Earth orbit?", "answerable": true, "gold_chunk_ids": ["saturn_v::chunk0000", "saturn_v::chunk0016", "saturn_v::chunk0017"]}
+{"id": "a031", "question": "Who led the technical design of the Saturn V rocket?", "answerable": true, "gold_chunk_ids": ["saturn_v::chunk0001", "saturn_v::chunk0002", "saturn_v::chunk0003"]}
+{"id": "a032", "question": "What other launch vehicle besides the Saturn V has carried humans beyond low Earth orbit?", "answerable": true, "gold_chunk_ids": ["saturn_v::chunk0000"]}
+{"id": "a033", "question": "What was the Apollo Lunar Module originally called before it was renamed?", "answerable": true, "gold_chunk_ids": ["apollo_lunar_module::chunk0000"]}
+{"id": "a034", "question": "Which company oversaw development of the Apollo Lunar Module?", "answerable": true, "gold_chunk_ids": ["apollo_lunar_module::chunk0000"]}
+{"id": "a035", "question": "What were the first two Apollo Lunar Modules flown, and were they crewed?", "answerable": true, "gold_chunk_ids": ["apollo_lunar_module::chunk0001"]}
+{"id": "a036", "question": "What was the total cost of developing and producing the Apollo Lunar Module, adjusted to 2016 dollars?", "answerable": true, "gold_chunk_ids": ["apollo_lunar_module::chunk0001"]}
+{"id": "a037", "question": "Which company built the Apollo command and service module, and when did development start?", "answerable": true, "gold_chunk_ids": ["apollo_csm::chunk0000", "apollo_csm::chunk0001"]}
+{"id": "a038", "question": "How many astronauts did the Apollo command and service module carry to lunar orbit?", "answerable": true, "gold_chunk_ids": ["apollo_csm::chunk0000"]}
+{"id": "a039", "question": "What was the total cost of the Apollo program, adjusted to 2024 US dollars?", "answerable": true, "gold_chunk_ids": ["apollo_program::chunk0010"]}
+{"id": "a040", "question": "At its peak, how many people did the Apollo program employ?", "answerable": true, "gold_chunk_ids": ["apollo_program::chunk0010"]}
+{"id": "u001", "question": "What was the name of the first Space Shuttle orbiter to fly into orbit?", "answerable": false, "gold_chunk_ids": [], "category": "adjacent_program"}
+{"id": "u002", "question": "What was the designation of the Soviet spacecraft that docked with the Apollo spacecraft during the Apollo-Soyuz Test Project?", "answerable": false, "gold_chunk_ids": [], "category": "missing_detail"}
+{"id": "u003", "question": "What lunar lander will NASA's Artemis III mission use to land astronauts on the Moon's surface?", "answerable": false, "gold_chunk_ids": [], "category": "adjacent_program"}
+{"id": "u004", "question": "Which private aerospace company was contracted to build the Space Launch System used for Artemis II?", "answerable": false, "gold_chunk_ids": [], "category": "missing_detail"}
+{"id": "u005", "question": "What was the total cost of NASA's Artemis program to date?", "answerable": false, "gold_chunk_ids": [], "category": "adjacent_program"}
+{"id": "u006", "question": "Who served as flight director for NASA's Artemis II mission?", "answerable": false, "gold_chunk_ids": [], "category": "adjacent_program"}
+{"id": "u007", "question": "What brand of wristwatch did the Apollo 11 astronauts wear on the lunar surface?", "answerable": false, "gold_chunk_ids": [], "category": "missing_detail"}
+{"id": "u008", "question": "What second career did Alan Bean pursue after leaving NASA?", "answerable": false, "gold_chunk_ids": [], "category": "missing_detail"}
+{"id": "u009", "question": "How much did a public viewing ticket cost to watch the Apollo 11 launch in person at Kennedy Space Center?", "answerable": false, "gold_chunk_ids": [], "category": "missing_detail"}
+{"id": "u010", "question": "What radio call sign did Mission Control use to contact the International Space Station during the Apollo 13 emergency?", "answerable": false, "gold_chunk_ids": [], "category": "false_premise"}
+{"id": "u011", "question": "What is the name of the next-generation lunar rover NASA plans to use during the Artemis program?", "answerable": false, "gold_chunk_ids": [], "category": "adjacent_program"}
+{"id": "u012", "question": "How many pounds of lunar samples did the Apollo 12 mission specifically collect?", "answerable": false, "gold_chunk_ids": [], "category": "missing_detail"}
+{"id": "u013", "question": "What was the name of the recovery ship that retrieved the Apollo-Soyuz Test Project crew after splashdown?", "answerable": false, "gold_chunk_ids": [], "category": "missing_detail"}
+{"id": "u014", "question": "What year did NASA select the astronaut crew for the Artemis II mission?", "answerable": false, "gold_chunk_ids": [], "category": "adjacent_program"}
+{"id": "u015", "question": "In what year did NASA land astronauts on Mars as a follow-up to the Apollo program?", "answerable": false, "gold_chunk_ids": [], "category": "false_premise"}

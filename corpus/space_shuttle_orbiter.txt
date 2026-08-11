@@ -1,0 +1,163 @@
+The Space Shuttle orbiter was the spaceplane component of the Space Shuttle, a partially reusable orbital spacecraft system that was part of the discontinued Space Shuttle program. Operated from 1981 to 2011 by NASA, the U.S. space agency, this vehicle could carry astronauts and payloads into low Earth orbit, perform in-space operations, then re-enter the atmosphere and land as a glider, returning its crew and any on-board payload to the Earth.
+Six orbiters were built for flight: Enterprise, Columbia, Challenger, Discovery, Atlantis, and Endeavour. All were built in Palmdale, California, by the Pittsburgh, Pennsylvania-based Rockwell International company's North American Aircraft Operations branch. The first orbiter, Enterprise, made its maiden flight in 1977. An unpowered glider, it was carried by a modified Boeing 747 airliner called the Shuttle Carrier Aircraft and released for a series of atmospheric test flights and landings. Enterprise was partially disassembled and retired after completion of critical testing. The remaining orbiters were fully operational spacecraft, and were launched vertically as part of the Space Shuttle stack.
+Columbia was the first space-worthy orbiter; it made its inaugural flight in 1981. Challenger, Discovery, and Atlantis followed in 1983, 1984, and 1985, respectively. In 1986, Challenger was destroyed in a disaster shortly after its 10th launch, killing all seven crew members. Endeavour was built as Challenger's successor, and was first launched in 1992. In 2003, Columbia was destroyed during re-entry, leaving just three remaining orbiters. Discovery completed its final flight on March 9, 2011, and Endeavour completed its final flight on June 1, 2011. Atlantis completed the final Shuttle flight, STS-135, on July 21, 2011.
+In addition to their crews and payloads, the reusable orbiter carried most of the Space Shuttle's liquid-propellant rocket system, but both the liquid hydrogen fuel and the liquid oxygen oxidizer for its three main rocket engines were fed from an external cryogenic propellant tank. Two reusable solid rocket boosters (SRBs) provided additional thrust for approximately the first two minutes of launch. The orbiters themselves also carried hypergolic propellant for the onboard Reaction Control System (RCS) thrusters and Orbital Maneuvering System (OMS) engines.
+
+
+== Description ==
+About the size of a McDonnell Douglas DC-9, the Space Shuttle orbiter resembled an airplane in its design, with a standard-looking fuselage and two double delta wings, both swept wings at an angle of 81 degrees at their inner leading edges and 45 degrees at their outer leading edges. The vertical stabilizer of the orbiter had a leading edge that was swept back at a 45-degree angle. There were four elevons mounted at the trailing edges of the delta wings, and the combination rudder and speed brake was attached at the trailing edge of the vertical stabilizer. These, along with a movable body flap located underneath the main engines, controlled the orbiter during later stages of reentry.
+The prime contractor for the orbiter was Rockwell International, which built the pressurized cabin, thermal protection, forward attitude control system, and forward and aft fuselage in its Downey, California factory, the payload bay doors in its Tulsa, Oklahoma factory, and the body flap in its Columbus, Ohio factory. Subcontractors included Convair in San Diego for the midsection, Fairchild Aircraft in Farmingdale, New York for the vertical stabilizer, Grumman in Bethpage, New York for the wings, Marquardt Corporation in Van Nuys, California for the attitude control propulsion, Aerojet in Rancho Cordova, California for the orbital insertion and deorbit propulsion, McDonnell Douglas for the surrounding pods, and Rocketdyne in Canoga Park, Los Angeles for the launch and ascent propulsion. 12,000 Rockwell workers were assigned to orbiter construction at the program's peak in the Downey plant. Final assembly was carried out at United States Air Force Plant 42 near Palmdale, California.
+
+
+=== Attitude control system ===
+
+The Reaction Control System (RCS) was composed of 44 small liquid-fueled rocket thrusters and their very sophisticated fly-by-wire flight control system, which utilized computationally intensive digital Kalman filtering. This control system carried out the usual attitude control along the pitch, roll, and yaw axes during all of the flight phases of launching, orbiting, and re-entry. This system also executed any needed orbital maneuvers, including all changes in the orbit's altitude, orbital plane, and eccentricity. These were all operations that required more thrust and impulse than mere attitude control.
+The forward rockets of the Reaction Control System, located near the nose of the Space Shuttle orbiter, included 14 primary and two vernier RCS rockets. The aft RCS engines were located in the two Orbital Maneuvering System (OMS) pods at the rear of the orbiter, and these included 12 primary (PRCS) and two vernier (VRCS) engines in each pod. The PRCS system provided the pointing control of the Orbiter, and the VRCS was used for fine maneuvering during the rendezvous, docking, and undocking maneuvers with the International Space Station, or formerly with the Russian Mir space station. The RCS also controlled the attitude of the orbiter during most of its re-entry into the Earth's atmosphere – until the air became dense enough that the rudder, elevons and body flap became effective.
+The orbiter's OMS and RCS fuel is monomethyl hydrazine (CH3NHNH2), and the oxidizer is dinitrogen tetroxide (N2O4). This particular propellant combination is extremely reactive and spontaneously ignites on contact (hypergolic) with each other. This chemical reaction (4CH3NHNH2 + 5N2O4 → 9N2 + 4CO2 + 12H2O) occurs within the engine's combustion chamber. The reaction products are then expanded and accelerated in the engine bell to provide thrust. Due to their hypergolic characteristics these two chemicals are easily started and restarted without an ignition source, which makes them ideal for spacecraft maneuvering systems.
+During the early design process of the orbiter, the forward RCS thrusters were to be hidden underneath retractable doors, which would open once the orbiter reached space. These were omitted in favor of flush-mounted thrusters for fear that the RCS doors would remain stuck open and endanger the crew and orbiter during re-entry.
+
+
+=== Pressurized cabin ===
+
+ 
+
+The orbiter's flight deck or cockpit originally had 2,214 controls and displays, about three times as many as the Apollo command module. The crew cabin consisted of the flight deck, the mid-deck, and the utility area. The uppermost of these was the flight deck, in which sat the Space Shuttle's commander and pilot in permanently fixed seats with up to two mission specialists seated behind them in stowable seats. The mission specialist in seat four (located behind and between commander and pilot) served as the flight engineer during ascent and landing, tracking information from CAPCOM and calling out milestones.
+The mid-deck, which was below the flight deck, was normally equipped with up to three additional stowable seats, depending on the crew requirements of the mission. One mission carried four seats (STS-61-A) and NASA drew up plans that were never used to carry up to seven seats in the case of an emergency rescue (STS-400).
+The galley, toilet, sleep locations, storage lockers, and the side hatch for entering and exiting the orbiter were also located on the mid-deck, as well as the airlock. The airlock had an additional hatch into the payload bay. This airlock allowed two or three astronauts, wearing their Extravehicular Mobility Unit (EMU) space suits, to depressurize before a walk in space (EVA), and also to repressurize and re-enter the orbiter at the conclusion of the EVA.
+The utility area was located under the floor of the mid-deck and contained air and water tanks in addition to the carbon dioxide scrubbing system.
+
+
+=== Propulsion ===
+
+Three Space Shuttle Main Engines (SSMEs) were mounted on the orbiter's aft fuselage in the pattern of an equilateral triangle. These three liquid-fueled engines could be swiveled 10.5 degrees vertically and 8.5 degrees horizontally during the rocket-powered ascent of the orbiter in order to change the direction of their thrust. Hence, they steered the entire Space Shuttle, as well as providing rocket thrust towards orbit. The aft fuselage also housed three auxiliary power units (APU). The APUs chemically converted hydrazine fuel from a liquid state to a gas state, powering a hydraulic pump  which supplied pressure for all of the hydraulic system, including the hydraulic sub-system that pointed the three main liquid-fueled rocket engines, under computerized flight control. The hydraulic pressure generated was also used to control all of the orbiter's flight control surfaces (the elevons, rudder, speed brake, etc.), to deploy the landing gear of the orbiter, and to retract the umbilical hose connection doors located near the rear landing gear, which supplied the orbiter's SSMEs with liquid hydrogen and oxygen from the external tank.
+Two Orbital Maneuvering System (OMS) thrusters were mounted in two separate removable pods on the orbiter's aft fuselage, located between the SSMEs and the vertical stabilizer. The OMS engines provided significant thrust for course orbital maneuvers, including insertion, circularization, transfer, rendezvous, deorbit, abort to orbit, and to abort once around. At lift-off, two reusable solid rocket boosters (SRBs) were used to take the vehicle to an altitude of roughly 140,000 feet.
+
+
+=== Electrical power ===
+Electric power for the orbiter's subsystems was provided by a set of three hydrogen-oxygen fuel cells which produced 28 volt DC power and was also converted into 115 volt 400 Hz AC three-phase electric power (for systems that used AC power). These provided power to the entire Shuttle stack (including the SRBs and ET) from T-minus 3m30s up through the end of the mission. The hydrogen and oxygen for the fuel cells was kept in pairs of cryogenic storage tanks in the mid-fuselage underneath the payload bay liner, and a variable number of such tank sets could be installed (up to five pairs) depending on the requirements of the mission. The three fuel cells were capable of generating 21 kilowatts of power continuously (or a 15-minute peak of 36 kilowatts) with the orbiter consuming an average of about 14 kilowatts of that power (leaving 7 kilowatts for the payload).
+Additionally, the fuel cells provided potable water for the crew during the mission.
+
+
+=== Computer systems ===
+The orbiter's computer system consisted of five identical IBM AP-101 avionics computers, which redundantly controlled the vehicle's on-board systems. The specialized HAL/S programming language was used for orbiter systems.
+
+
+=== Thermal protection ===
+
+The orbiters were protected by Thermal Protection System (TPS) materials (developed by Rockwell Space Systems) inside and out, from the orbiter's outer surface to the payload bay. The TPS protected it from the cold soak of −121 °C (−186 °F) in space to the 1,649 °C (3,000 °F) heat of re-entry. The tile materials comprising much of the orbiter's outermost layer were mostly air held within near-pure silica fibers, which made it efficient at refractory insulation that absorbed and redirected heat back out into the air, and covered in silicon borides and borosilicate glass, with blacker tiles covering the lower surface, and whiter tiles covering the tail, parts of the upper wing and crew cabin surfaces, and the outsides of the payload bay doors. The nose cap, nose landing gear doors, and leading edges were made of reinforced carbon–carbon, which is rayon impregnated with graphite-filled resins and coated in silicon carbide. The upper, white materials that were not in tiles were mostly made of either Nomex felt coated in silicon-rich elastomer or beta cloth, woven silica fibers covered in Teflon. This was especially true in the interior of the payload bay.
+
+
+=== Structure ===
+The orbiter's structure was made primarily from aluminum alloy, although the engine thrust structure was made from titanium alloy. The later orbiters (Discovery, Atlantis and Endeavour) substituted graphite epoxy for aluminum in some structural elements in order to reduce weight. The windows were made of aluminum silicate glass and fused silica glass, and comprised an internal pressure pane, a 1.3-inch-thick (33 mm) optical pane, and an external thermal pane. The windows were tinted with the same ink used to make American banknotes.
+
+
+=== Landing gear ===
+
+The Space Shuttle orbiter had tricycle landing gear which emerged downwards through doors in the heat shield. As a weight-saving measure, the gear could not be retracted once deployed. Since any premature extension of the landing gear would very likely have been catastrophic (as it opened through the heat shield layers), the landing gear could only be lowered by manual controls, and not by any automatic system.
+Similarly, since the Shuttle landed at high speed and could not abort its landing attempt, the gear had to deploy reliably on the first try every time. The gear were unlocked and deployed by triple redundant hydraulics, with the gear doors actuated by mechanical linkages to the gear strut. If all three hydraulic systems failed to release the landing gear uplocks within one second of the release command, pyrotechnic charges automatically cut the lock hooks and a set of springs deployed the gear.
+During landing, the Shuttle nose wheel could be steered with the rudder pedals in the cockpit. During the construction of Space Shuttle Endeavour, an improved nose wheel steering system was developed which allowed easier and more effective nose wheel steering. After Endeavour's roll-out, the system was installed on the other shuttles during their overhauls in the early 1990s.
+
+
+=== Lack of navigational lights ===
+The Space Shuttle orbiter did not carry anti-collision lights, navigational lights, or landing lights, because the orbiter always landed in areas that had been specially cleared by both the Federal Aviation Administration (FAA) and the U.S. Air Force. The orbiter always landed at either Edwards Air Force Base, California or at the Kennedy Space Center Shuttle Landing Facility, Florida, except STS-3 at the White Sands Space Harbor in New Mexico. Similar special clearances (no-fly zones) were also in effect at potential emergency landing sites, such as in Spain and in West Africa during all launches.
+When an orbiter landing was carried out at night, the runway was always strongly illuminated with light from floodlights and spotlights on the ground, making landing lights on the orbiter unnecessary and also an unneeded spaceflight weight load. A total of 26 landings took place at night, the first being STS-8 in September 1983.
+
+
+=== Markings and insignia ===
+
+The typeface used on the Space Shuttle orbiter was Helvetica.
+The prototype orbiter Enterprise originally had a flag of the United States on the upper surface of the left wing and the letters "USA" in black on the right wing. The name "Enterprise" in black was painted on the payload bay doors just above the forwardmost hinge and behind the crew module; on the aft end of the payload bay doors was the NASA "worm" logotype in gray. Underneath the rear of the payload bay doors on the side of the fuselage just above the wing was the text "United States" in black with a flag of the United States ahead of it.
+The first operational orbiter, Columbia, originally had the same markings as Enterprise, although the letters "USA" on the right wing were slightly larger and spaced farther apart. Columbia also had black tiles which Enterprise lacked on its forward RCS module, around the cockpit windows, and on its vertical stabilizer. Columbia also had distinctive black chines on the forward part of its upper wing surfaces, which none of the other orbiters had.
+
+Challenger established a modified marking scheme for the shuttle fleet that would be matched by Discovery, Atlantis and Endeavour. The letters "USA" in black above an American flag were displayed on the left wing, with the NASA "worm" logotype in gray centered above the name of the orbiter in black on the right wing. Also, the name of the orbiter was inscribed not on the payload bay doors, but on the forward fuselage just below and behind the cockpit windows. This would make the name visible when the orbiter was photographed in orbit with the doors open. Challenger also had black tiles on the tip of its vertical stabilizer much like Columbia, which the other orbiters lacked.
+In 1983, Enterprise had its wing markings changed to match Challenger, and the NASA "worm" logotype on the aft end of the payload bay doors was changed from gray to black. Some black markings were added to the nose, cockpit windows and vertical tail to more closely resemble the flight vehicles, but the name "Enterprise" remained on the payload bay doors as there was never any need to open them. Columbia had its name moved to the forward fuselage to match the other flight vehicles after STS-61-C, during the 1986–1988 hiatus when the shuttle fleet was grounded following the loss of Challenger, but retained its original wing markings until its last overhaul (after STS-93), and its unique black chines for the remainder of its operational life.
+
+Beginning in STS-95 (1998), the flight vehicles' markings were modified to incorporate the NASA "meatball" insignia. The "worm" logotype, which the agency had phased out, was removed from the payload bay doors and the "meatball" insignia was added aft of the "United States" text on the lower aft fuselage. The "meatball" insignia was also displayed on the left wing, with the American flag above the orbiter's name, left-justified rather than centered, on the right wing. The three surviving flight vehicles, Discovery, Atlantis and Endeavour, still bear these markings as museum displays. Enterprise became the property of the Smithsonian Institution in 1985 and was no longer under NASA's control when these changes were made, hence the prototype orbiter still has its 1983 markings and still has its name on the payload bay doors.
+
+
+=== Retirement ===
+With the end of the Shuttle program, plans were made to place the three remaining Space Shuttle orbiters on permanent display. NASA Administrator Charles F. Bolden Jr. announced the disposition location of the orbiters on April 12, 2011, the 50th anniversary of the first human space flight and the 30th anniversary of the first flight of Columbia.
+Discovery went to the Smithsonian's Steven F. Udvar-Hazy Center, replacing Enterprise which was moved to the Intrepid Museum in New York City. Endeavour went to the California Science Center in Los Angeles arriving on October 14, 2012. Atlantis went to the Kennedy Space Center Visitor Complex in Merritt Island on November 2, 2012. Hundreds of other shuttle artifacts were put on display at various other museums and educational institutions around the U.S.
+One of the Crew Compartment Trainer Flight and mid-deck training hardware is on display at the National Museum of the U.S. Air Force, while the other is on display at the JSC. The Full Fuselage Trainer, which includes the payload bay and aft section but no wings, is on display at the Museum of Flight in Seattle, Washington. The Mission Simulation and Training Facility's Shuttle Mission Simulator Fixed Base Simulator originally went to the Adler Planetarium in Chicago, Illinois but was later transferred to the Stafford Air & Space Museum in Weatherford, Oklahoma. The Motion Base Simulator was transferred to the Texas A&M Aerospace Engineering Department in College Station, Texas, and the Guidance and Navigation Simulator went to the Wings of Dreams Aviation Museum in Starke, Florida. NASA also made approximately 7,000 TPS tiles available to schools and universities.
+
+
+== Shuttle Orbiter Specifications (OV-105) ==
+
+Data from General characteristics
+Crew: 2 (commander and pilot)
+Capacity: 6 passengers (up to three mission and up to three payload specialists) or 25,060 kg (55,250 lb)
+Length: 122 ft 2.0 in (37.237 m)
+Wingspan: 78 ft 1 in (23.79 m)
+Height: 58 ft 7 in (17.86 m)
+Wing area: 2,690 sq ft (249.9 m2) 
+Empty weight: 171,961 lb (78,000 kg)
+Max takeoff weight: 242,508 lb (110,000 kg)
+Payload to LEO: 24,310 kg (53,590 lb)
+Cargo bay dimensions: 60 × 15 ft (18.3 × 4.6 m)
+Powerplant: 3 × Rocketdyne Block 2-A RS-25 liquid-fuelled rocket engine, 418,000 lbf (1,860 kN) thrust each
+Powerplant: 2 × Aerojet AJ10-190 liquid-fuelled rocket engine, 6,000 lbf (26.7 kN) thrust each
+Performance
+
+Maximum speed: 17,320 mph (27,870 km/h, 15,050 kn)
+Range: 120–600 mi (190–960 km, 100–520 nmi)
+Service ceiling: 607,000–2,110,000 ft (185,000–643,000 m)
+Maximum glide ratio: Variable with speed, 1:1 at hypersonic speed - 2:1 at supersonic speed - 4.5:1 at subsonic speed
+The cargo bay is 60 ft (18 m) by 15 ft (4.6 m), and could transport 24,400 kg (53,800 lb) to 204 km (127 mi), or 12,500 kg (27,600 lb) to the ISS at 407 km (253 mi). The most massive payload launched by the Space Shuttle was the Chandra X-ray Observatory in 1999 at 50,162 lb (22,753 kg), including its Inertial Upper Stage (IUS) and support equipment. The Shuttle was capable of returning approximately 16,000 kg (35,000 lb) of cargo to Earth.
+The orbiter's maximum glide ratio / lift-to-drag ratio varied considerably with speed, ranging from 1:1 at hypersonic speeds, 2:1 at supersonic speeds, and reaching 4.5:1 at subsonic speeds during approach and landing.
+
+
+== Fleet ==
+
+Individual Space Shuttle orbiters were named in honor of historic sailing ships of the navies of the world (though the test orbiter Enterprise, originally to be named "Constitution", was ultimately instead given the name of the Star Trek starship, itself named after a series of US Navy ships), and they were also numbered using the NASA Orbiter Vehicle designation system. Three of the names had also been given to Apollo spacecraft between 1969 and 1972: Apollo 11 Command Module Columbia, Apollo 15 Command Module Endeavour, and Apollo 17 Lunar Module Challenger.
+While all of the orbiters were externally practically identical, they had minor differences in their interiors. New equipment for the orbiters was installed in the same order that they underwent maintenance work, and the newer orbiters were constructed by Rockwell International, under NASA supervision, with some more advanced, lighter-in-weight structural elements. Thus, the newer orbiters (Discovery, Atlantis and Endeavour) had slightly more cargo capacity than Columbia or Challenger.
+The Space Shuttle orbiters were assembled at Rockwell's assembly facility in Palmdale, California, at the federally owned Plant 42 complex.
+
+
+=== Orbiter Vehicle Designation ===
+
+Each NASA Space Shuttle designation was composed of a prefix and suffix separated by a dash. The prefix for operational shuttles is OV, for Orbiter Vehicle. The suffix is composed of two parts: the series and the vehicle number; "0" was used for non-flight ready orbiters, and "1" was used for flight-ready orbiters. The vehicle number is sequentially assigned within the series, beginning with 1. Therefore, there can never be an OV-100 as it would read "Orbiter Vehicle Series 1 Vehicle 0". Many proposals to build a second generation of orbiters, externally compatible with the current system but internally new, refer to them as "OV-200" or "OV-2xx" in order to differentiate them from the "first generation", the OV-100s. This terminology is informal, and it is unlikely that any Shuttle-derived vehicle built will be given such designation. Challenger was originally intended to be used as a Structural Test Article (STA), rather than a flight-capable orbiter; as such, the numbering was changed when it was rebuilt. Enterprise, on the other hand, was intended to be rebuilt into a flight-capable orbiter; it was found to be cheaper to rebuild STA-099 than OV-101, so it remained unflown. The designations were not altered, despite these changes in plans. An "OV-106" designation was given to the set of structural components manufactured to replace those used in the construction of Endeavour; however, the contract for these was canceled shortly afterwards, and they were never completed. The "096" and "097" designators were given to structural test articles that were canceled, but while they exist in some NASA records, the NASA History Office has no official record of STA-096 and STA-097.
+
+
+=== Operational orbiters ===
+
+Columbia was first launched on April 12, 1981. On February 1, 2003, Columbia disintegrated during re-entry on its 28th spaceflight.
+Challenger was first launched on April 4, 1983. On January 28, 1986, it disintegrated 73 seconds after launch on its 10th mission.
+Discovery was first launched on August 30, 1984. It flew 39 missions, and was NASA's "Return to Flight" vehicle, following the accidental destructions of Challenger and Columbia. Discovery completed its last mission, STS-133, in March 2011. It is currently on display at the Smithsonian's National Air and Space Museum Steven F. Udvar-Hazy Center, near Dulles International Airport.
+Atlantis was first launched on October 3, 1985. It flew 33 spaceflights including the final Space Shuttle mission, STS-135, in July 2011.
+Endeavour was first launched on May 7, 1992. It flew 25 spaceflights, the final being STS-134, launched May 16, 2011.
+
+
+=== Test articles ===
+
+
+=== Mockups ===
+In addition to the operational orbiters and test articles produced for use in the Shuttle program, there are also various mockup replicas on display throughout the United States:
+
+
+== Flight statistics ==
+
+
+=== Flight history timeline ===
+
+
+== See also ==
+Space Shuttle for program history and description of operations
+Buran program (USSR's reusable shuttle program)
+Dream Chaser
+SpaceX Starship (spacecraft)
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+Orbiter Vehicles Archived February 9, 2021, at the Wayback Machine
+Historic American Engineering Record (HAER) documentation, filed under Lyndon B. Johnson Space Center, 2101 NASA Parkway, Houston, Harris County, TX:
+HAER No. TX-116-A, "Space Transportation System, Orbiter Discovery (OV-103)", 121 photos, 14 measured drawings, 28 photo caption pages
+HAER No. TX-116-B, "Space Transportation System, Orbiter Atlantis (OV-104)", 24 photos, 5 photo caption pages
+HAER No. TX-116-C, "Space Transportation System, Orbiter Endeavour (OV-105)", 22 photos, 5 photo caption pages
+HAER No. TX-116-I, "Space Transportation System, Space Shuttle Main Engine", 20 photos, 2 measured drawings, 8 photo caption pages

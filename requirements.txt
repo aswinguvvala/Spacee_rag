@@ -17,7 +17,10 @@ numpy==2.5.2
 anthropic==0.39.0
 requests==2.34.2
 python-dotenv==1.0.1
-pydantic==2.10.3
+# pydantic pins pydantic-core exactly (2.10.3 -> pydantic-core==2.27.1, which has
+# no Python 3.14 wheel and fails to build from source there -- see requirements.txt
+# history). 2.13.4 -> pydantic-core==2.46.4, which does ship cp314 wheels.
+pydantic==2.13.4
 
 # App
 streamlit==1.40.2

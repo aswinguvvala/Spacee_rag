@@ -1,10 +1,17 @@
 # Core ML / retrieval
-sentence-transformers==3.3.1
-transformers==4.46.3
-torch==2.5.1
-faiss-cpu==1.9.0.post1
+# NOTE: originally pinned to older releases (sentence-transformers==3.3.1,
+# transformers==4.46.3, torch==2.5.1, faiss-cpu==1.9.0.post1, numpy==1.26.4).
+# Streamlit Community Cloud's build environment had no wheels for torch==2.5.1
+# for its Python version; bumped this whole group to current, mutually
+# compatible releases (verified together: full test suite passes, and the
+# committed corpus/index/ FAISS index still loads fine under the new
+# faiss-cpu -- see git history for the exact validation done before this bump).
+sentence-transformers==5.7.0
+transformers==5.15.0
+torch==2.9.1
+faiss-cpu==1.15.0
 rank-bm25==0.2.2
-numpy==1.26.4
+numpy==2.5.2
 
 # LLM generation (provider-swappable interface; default Anthropic, OpenRouter also supported)
 anthropic==0.39.0
